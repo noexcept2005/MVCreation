@@ -1,0 +1,13 @@
+===========================
+     MV C++ Performer      
+  Framework by Wormwaker   
+
+* Product Name: 最伟大的摇滚，
+===========================
+MV_Init: 初始化中...
+显示器缩放比例：125%
+窗口尺寸： uix=1280, uiy=720
+MV_Load: 载入中...
+[ERROR in MV_Load] MV所需音频缺失：../最伟大的摇滚，/Assets/最伟大的摇滚，最松驰的钢门.mp3
+ElementPerformer: 清除所有元素
+FontManager::Dispose:  卸载字体结果： 0 / 0

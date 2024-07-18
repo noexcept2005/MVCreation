@@ -1,0 +1,97 @@
+region duration 8300L
+//¼¦ÄãÌ«ÃÀ
+//effect add id="glow" duration=2500L
+text add text="¼¦" life=2500L s_color=#&7 e_color=#&14 sx=540 sy=30 ex=500 ey=55 change_func="ease_out_cubic" s_rot=20.0f e_rot=25.0f a_in="shrink" a_out="to_left_expo" s_fs=250 e_fs=270 font="4"
+sleep 200
+text add text="Äã" life=2500L s_color=#&7 e_color=#&15 sx=620 sy=110 ex=660 ey=140 change_func="ease_out_cubic" s_rot=-20.0f e_rot=-25.0f a_in="shrink" a_out="to_right_expo" s_fs=200 e_fs=213 font="5"
+sleep 200
+text add text="Ì«" life=2500L s_color=#&7 e_color=#&12 sx=520 sy=220 ex=450 ey=280 change_func="ease_out_cubic" s_rot=20.0f e_rot=25.0f a_in="shrink" a_out="to_left_expo" s_fs=201 e_fs=212 font="5"
+sleep 200
+text add text="ÃÀ" life=2500L s_color=#&7 e_color=#&13 sx=540 sy=325 ex=650 ey=330 change_func="ease_out_cubic" s_rot=-20.0f e_rot=-25.0f a_in="shrink" a_out="enlarge" in_time=450 out_time=150 s_fs=235 e_fs=270 font="4"
+rect add type="image" life=3550L image="cxk_body_4.png" s_zoom=0.5f sx=midx-155 sy=uiy-349 ex=midx+80 ey=250 e_zoom=0.9f change_func="ease_in_out_sine" a_in="from_down_cubic" a_out="to_right_expo" out_time=280L s_alpha=30s e_alpha=250s
+sleep 2050
+text add text="B" life=100L s_color=#&15 sx=100 sy=0 a_in="none" a_out="none" s_fs=180 font="2"
+text add text="A" life=100L s_color=#&15 sx=100 sy=140 a_in="none" a_out="none" s_fs=180 font="2"
+text add text="B" life=100L s_color=#&15 sx=100 sy=280 a_in="none" a_out="none" s_fs=180 font="2"
+text add text="Y" life=100L s_color=#&15 sx=100 sy=420 a_in="none" a_out="none" s_fs=180 font="2"
+sleep 100
+text add text="B" life=1000L s_color=#&15 e_color=#&13 sx=100 sy=0 ex=200 ey=uiy-200 out_time=200L motion_delay=250L change_func="ease_in_out_sine" a_in="none" a_out="to_up_expo" s_fs=180 font="2"
+text add text="A" life=1000L s_color=#&15 e_color=#&12 sx=100 sy=140 ex=300 ey=uiy-200 out_time=200L motion_delay=250L change_func="ease_in_out_sine" a_in="none" a_out="to_down_expo" s_fs=180 font="2"
+text add text="B" life=1000L s_color=#&15 e_color=#&13 sx=100 sy=280 ex=400 ey=uiy-200 out_time=200L motion_delay=250L change_func="ease_in_out_sine" a_in="none" a_out="to_up_expo" s_fs=180 font="2"
+text add text="Y" life=1000L s_color=#&15 e_color=#&12 sx=100 sy=420 ex=500 ey=uiy-200 out_time=200L motion_delay=250L change_func="ease_in_out_sine" a_in="none" a_out="to_down_expo" s_fs=180 font="2"
+sleep 100
+text add text="B" life=600L s_color=#25;25;25 e_color=#90;90;90 sx=200 sy=uiy-200 ey=uiy-330 change_func="ease_out_cubic" out_time=500L a_in="fadein" a_out="to_up_expo" s_fs=180 font="2"
+text add text="A" life=600L s_color=#25;25;25 e_color=#50;50;50 sx=300 sy=uiy-200 ey=uiy-300 change_func="ease_out_cubic" out_time=500L a_in="fadein" a_out="to_down_expo" s_fs=180 font="2"
+text add text="B" life=600L s_color=#25;25;25 e_color=#90;90;90 sx=400 sy=uiy-200 ey=uiy-330 change_func="ease_out_cubic" out_time=500L a_in="fadein" a_out="to_up_expo" s_fs=180 font="2"
+text add text="Y" life=600L s_color=#25;25;25 e_color=#50;50;50 sx=500 sy=uiy-200 ey=uiy-296 change_func="ease_out_cubic" out_time=500L a_in="fadein" a_out="to_down_expo" s_fs=180 font="2"
+//camera set ex=1000 duration=1400 change_func="ease_in_out_sine"
+//effect add id="drag" duration=6000L in_time=300L out_time=300L
+sleep 800
+camera set e_zoom=1.0f s_zoom=2.8f duration=2200L change_func="ease_out_cubic"
+text add text="¼¦" life=1450 sx=uix-180 sy=80 ex=uix-500 change_func="lerp" s_color=#&14 e_color=#&15 a_in="from_right_cubic" a_out="to_left_cubic" s_fs=180 font="5"
+text add text="¼¦" life=1450 sx=20 sy=uiy-260 ex=520 change_func="lerp" s_color=#&14 e_color=#&15 a_in="from_left_cubic" a_out="to_right_cubic" s_fs=180 font="5"
+rect add type="image" image="cxk_2.png" life=3100L sx=midx-190 sy=midy-30 ex=midx+80 change_func="lerp" s_zoom=0.55f s_rot=0.0f e_rot=7200.0f rot_xc_ratio=0.5f rot_yc_ratio=0.5f a_in="fadein" in_time=300L s_alpha=255s e_alpha=190s a_out="fadeout" out_time=300L
+rect add type="image" image="cxk_2.png" life=3400L sx=midx-350 sy=midy-75 ex=midx-10 change_func="lerp" s_zoom=0.4f s_rot=80.0f e_rot=5480.0f rot_xc_ratio=0.5f rot_yc_ratio=0.5f a_in="fadein" in_time=300L s_alpha=255s e_alpha=10s a_out="fadeout" out_time=200L
+rect add type="image" image="cxk_2.png" life=2900L sx=midx-540 sy=midy+10 ex=midx+330 change_func="lerp" s_zoom=0.3f s_rot=-1800.0f e_zoom=1.0f e_rot=10800.0f rot_xc_ratio=0.5f rot_yc_ratio=0.5f a_in="fadein" in_time=300L s_alpha=255s e_alpha=30s a_out="fadeout" out_time=300L
+rect add type="image" image="cxk_2.png" life=4000L sx=midx-270 sy=midy-10 ex=midx+80 change_func="lerp" s_zoom=0.6f s_rot=900.0f e_rot=8000.0f rot_xc_ratio=0.5f rot_yc_ratio=0.5f a_in="fadein" in_time=300L s_alpha=255s e_alpha=100s a_out="fadeout" out_time=100L
+rect add type="image" image="hen_2.png" life=3550L sx=midx-550 sy=midy-30 ex=midx+400 change_func="ease_in_out_sine" s_zoom=0.1f e_zoom=0.35f a_in="from_left_cubic" in_time=200L s_alpha=255s a_out="to_right_expo" out_time=400L
+sleep 280
+//effect add id="glow" duration=1000L in_time=300L out_time=300L
+text add text="Äã" life=1450 sx=uix-180 sy=100 ex=uix-500 change_func="lerp" s_color=#&15 e_color=#&7 a_in="from_right_cubic" a_out="to_left_cubic" s_fs=180 font="5"
+text add text="Äã" life=1450 sx=20 sy=uiy-280 ex=520 change_func="lerp" s_color=#&15 e_color=#&7 a_in="from_left_cubic" a_out="to_right_cubic" s_fs=180 font="5"
+sleep 280
+text add text="Ì«" life=1450 sx=uix-180 sy=120 ex=uix-500 change_func="lerp" s_color=#&15 e_color=#&7 a_in="from_right_cubic" a_out="to_left_cubic" s_fs=180 font="5"
+text add text="Ì«" life=1450 sx=20 sy=uiy-300 ex=520 change_func="lerp" s_color=#&15 e_color=#&7 a_in="from_left_cubic" a_out="to_right_cubic" s_fs=180 font="5"
+sleep 280
+text add text="ÃÀ" life=1450 sx=uix-180 sy=140 ex=uix-500 change_func="lerp" s_color=#&15 e_color=#&12 a_in="from_right_cubic" a_out="to_left_cubic" s_fs=180 font="5"
+text add text="ÃÀ" life=1450 sx=20 sy=uiy-320 ex=520 change_func="lerp" s_color=#&15 e_color=#&12 a_in="from_left_cubic" a_out="to_right_cubic" s_fs=180 font="5"
+sleep 900
+text add text="BAB" life=210 sx=100 sy=uiy-180 s_color=#&15 e_color=#&14 a_in="none" a_out="to_down_cubic" out_time=50L s_fs=140 font="5"
+text add text="Y" life=210 sx=310 sy=uiy-180 s_color=#&14 e_color=#&13 a_in="from_right_cubic" in_time=150L a_out="to_down_expo" out_time=50L s_fs=130 font="5"
+sleep 250
+text add text="Baby" life=130 sx=100 sy=uiy-180 s_color=#&12 a_in="none" a_out="none" s_fs=140 font="5"
+sleep 160
+text add text="Baby" life=1600 sx=95 sy=uiy-185 s_color=#&13 a_in="none" a_out="enlarge" s_fs=144 font="5"
+sleep 250
+region wait
+region duration 8600L
+camera clear
+text add text="¼¦" life=270 sx=midx-120 sy=uiy-280 s_color=#&15 a_in="none" a_out="none" s_fs=240 font="4" s_rot=-20.0f
+sleep 200
+text add text="¼¦" life=1920 sx=midx-120 sy=uiy-280 s_color=#&15 e_color=#255;215;0 a_in="from_down_cubic" in_time=80L a_out="to_down_expo" s_fs=240 font="4" s_rot=-20.0f
+sleep 200
+text add text="Äã" life=1400 sx=midx-250 sy=uiy-410 s_color=#&2 a_in="from_left_cubic" a_out="shrink" s_fs=350 font="1" s_rot=100.0f
+sleep 250
+text add text="ÊµÔÚÊÇ" life=200 sx=280 sy=80 s_color=#&7 a_in="none" a_out="none" s_fs=170 font="5"
+sleep 200
+text add text="ÊµÔÚÊÇ" life=1900 sx=280 ex=310 change_func="lerp" sy=80 s_color=#&10 e_color=#127;255;0 a_in="none" a_out="to_up_expo" s_fs=170 font="5"
+sleep 200
+text add text="Ì«" life=1500 sx=midx-220 sy=0 ex=midx-500 ey=300 change_func="ease_in_out_expo" s_color=#&14 e_color=#&13 a_in="none" a_out="enlarge" s_fs=450 font="1"
+text add text="ÃÀ" life=1500 sx=midx+5 sy=0 ex=midx+150 ey=300 change_func="ease_in_out_expo" s_color=#&14 e_color=#&13 a_in="none" a_out="enlarge" s_fs=450 font="1"
+sleep 1230
+text add text="baby" life=2500L s_color=#15;15;15 e_color=#60;60;60 sx=uix-450 sy=uiy-300 ex=uix-350 ey=uiy-450 motion_delay=250L s_rot=0.0f e_rot=300.0f a_in="from_right_cubic" a_out="enlarge" change_func="ease_out_cubic" s_fs=120 e_fs=130 font="5"
+text add text="baby" life=2500L s_color=#15;15;15 e_color=#60;60;60 sx=uix-350 sy=uiy-300 ex=uix-250 ey=uiy-150 motion_delay=250L s_rot=0.0f e_rot=300.0f a_in="from_right_cubic" a_out="enlarge" change_func="ease_out_cubic" s_fs=120 e_fs=130 font="5"
+text add text="baby" life=2500L s_color=#&10 e_color=#&12 sx=uix-400 sy=uiy-300 s_rot=0.0f e_rot=300.0f a_in="from_right_cubic" a_out="enlarge" change_func="ease_out_cubic" s_fs=120 e_fs=130 font="5"
+sleep 1280
+text add text="¼¦" life=2300 s_color=#&7 sx=30 sy=190 s_fs=400 a_in="from_down_cubic" a_out="to_left_expo" s_rot=50.0f font="5"
+sleep 250
+text add text="Äã" life=2050 s_color=#&15 sx=350 sy=80 s_fs=400 a_in="from_down_cubic" a_out="to_down_expo" s_rot=-50.0f font="5"
+sleep 250
+text add text="Ì«" life=1750 s_color=#&7 sx=600 sy=100 s_fs=400 a_in="from_down_cubic" a_out="to_up_expo" s_rot=50.0f font="5"
+sleep 250
+text add text="ÃÀ" life=1450 s_color=#&8 sx=890 sy=100 s_fs=400 a_in="from_down_cubic" a_out="to_right_expo" s_rot=-50.0f font="5"
+sleep 400
+clear
+text add text="¼¦" life=1950 s_color=#255;236;139 sx=30 sy=190 s_fs=400 a_in="fadein" in_time=100L a_out="to_left_expo" s_rot=50.0f font="5"
+text add text="Äã" life=1900 s_color=#&15 sx=350 sy=80 s_fs=400 a_in="fadein" in_time=100L a_out="to_down_expo" s_rot=-50.0f font="5"
+text add text="Ì«" life=1850 s_color=#104;131;139 e_color=#74;112;139 sx=600 sy=100 s_fs=400 a_in="fadein" in_time=100L a_out="to_up_expo" s_rot=50.0f font="5"
+text add text="ÃÀ" life=1800 s_color=#255;52;179 e_color=#199;21;133 sx=890 sy=100 s_fs=400 a_in="fadein" in_time=100L a_out="to_right_expo" s_rot=-50.0f font="5"
+camera set ex=midx+80 ey=midy e_rot=110.0f s_zoom=1.0f e_zoom=1.8f change_func="ease_in_expo" duration=1100L
+rect add type="image" image="cxk_9.png" life=1200L sx=80 sy=midy-120 s_zoom=0.6f a_in="from_up_cubic" in_time=400L a_out="enlarge" out_time=500L
+sleep 1000
+text add text="Baby" life=2900L s_color=#240;128;128 e_color=#&13 sx=midx-200 sy=midy-80 ey=midy+70 a_in="fadein" in_time=800L a_out="to_rightdown_expo" out_time=800L change_func="ease_in_expo" s_fs=130 s_rot=230.0f e_rot=250.0f font="6"
+//text add text="baby" life=2700L s_color=#&8 sx=midx-300 sy=midy-80 s_rot=350.0f font="5" change_func="ease_in_expo" a_in="none" a_out="enlarge"
+//text add text="baby" life=2700L s_color=#&8 sx=midx+180 sy=midy+120 s_rot=350.0f font="5" change_func="ease_in_expo" a_in="none" a_out="enlarge"
+sleep 300
+camera return duration=2000L
+region wait

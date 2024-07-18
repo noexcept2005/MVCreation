@@ -1,0 +1,1345 @@
+﻿  main.cpp
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_string.h(72,10): warning C4018: “>”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_string.h(77,10): warning C4018: “>”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_string.h(82,10): warning C4018: “>”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_string.h(87,10): warning C4018: “>”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_string.h(154,20): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_string.h(172,20): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(11,22): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(15,18): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(154,30): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(155,30): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(156,42): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(160,31): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(161,31): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(162,35): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(163,35): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(164,28): warning C4305: “return”: 从“const double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(165,50): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(166,48): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(167,77): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(168,77): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(181,31): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(191,20): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_winsys.h(70,9): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(103,11): warning C4244: “初始化”: 从“ege::color_t”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(104,11): warning C4244: “初始化”: 从“ege::color_t”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(105,11): warning C4244: “初始化”: 从“ege::color_t”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(157,12): warning C4244: “初始化”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(359,24): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(360,25): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(364,23): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(365,24): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(376,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(389,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(390,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(417,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(418,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(458,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(459,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(460,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(509,9): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(512,11): warning C4244: “=”: 从“const _Ty”转换到“float”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(512,11): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(512,11): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(512,11): warning C4244:             _Ty=double
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_display.h(512,11): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_json.h(103,23): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_json.h(130,23): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_json.h(138,24): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_json.h(269,23): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_json.h(279,23): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_json.h(307,22): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_json.h(394,22): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_perform.h(263,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_perform.h(263,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(76,71): warning C4244: “参数”: 从“double”转换到“clock_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(76,33): warning C4244: “参数”: 从“double”转换到“clock_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(125,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(131,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(136,69): warning C4244: “参数”: 从“double”转换到“unsigned char”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(148,49): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(148,49): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(148,49): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(148,49): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(148,49): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(241,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(243,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(248,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(254,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(265,25): warning C4244: “=”: 从“float”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(269,25): warning C4244: “=”: 从“float”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(279,33): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(311,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(311,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(330,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(331,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(340,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(339,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(377,21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(382,21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(387,21): warning C4244: “return”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(392,19): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(397,19): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(402,58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(403,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(404,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_camera.h(405,11): warning C4244: “=”: 从“float”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(50,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(60,51): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(60,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(75,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(85,51): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(85,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(114,30): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(114,30): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(114,30): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(114,30): warning C4244:             _T=short
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(114,30): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(114,26): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(123,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(132,26): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(141,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(3,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(9,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(27,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(33,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(50,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(55,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(70,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(71,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(75,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(76,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(81,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(86,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(152,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(153,41): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(153,41): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(153,41): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(153,41): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(153,41): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(153,26): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(160,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(176,44): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(176,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(178,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(178,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(200,34): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(200,34): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(200,34): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(200,34): warning C4244:             _T=short
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(200,34): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(200,26): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(207,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(216,34): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(216,34): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(216,34): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(216,34): warning C4244:             _T=short
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(216,34): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(216,26): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(223,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(2,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(7,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(22,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(27,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(42,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(47,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(62,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(63,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(67,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(68,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(73,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(78,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(233,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(234,26): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(241,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(255,44): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(255,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(257,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(257,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_amid_common.h(10,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_amid_common.h(11,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_amid_common.h(13,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(263,22): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(263,22): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(263,22): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(263,22): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(263,22): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(263,21): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(274,44): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(274,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(276,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_textperform.h(276,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(123,24): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(128,22): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(129,38): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(129,38): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(129,38): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(129,38): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(129,38): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(129,30): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(129,30): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(129,30): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(129,30): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(129,30): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(129,18): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(130,38): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(130,38): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(130,38): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(130,38): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(130,38): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(130,30): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(130,30): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(130,30): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(130,30): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(130,30): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(130,18): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(132,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(134,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(138,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(146,24): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(147,40): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(147,40): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(147,40): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(147,40): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(147,40): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(147,30): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(147,30): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(147,30): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(147,30): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(147,30): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(147,18): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(148,40): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(148,40): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(148,40): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(148,40): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(148,40): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(148,30): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(148,30): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(148,30): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(148,30): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(148,30): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(148,18): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(150,31): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(150,31): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(150,31): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(150,31): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(150,31): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(150,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(152,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(156,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(3,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(9,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(15,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(21,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(27,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(33,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(39,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(45,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(50,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(51,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(55,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(56,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(60,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(61,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(65,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(66,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(70,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(71,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(75,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(76,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(80,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(81,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,24): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,24): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,24): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,24): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,24): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(85,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_ain_common_cases.h(86,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(177,24): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(182,22): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(183,42): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(183,42): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(183,42): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(183,42): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(183,42): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(183,22): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(183,22): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(183,22): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(183,22): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(183,22): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(183,18): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(184,42): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(184,42): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(184,42): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(184,42): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(184,42): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(184,22): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(184,22): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(184,22): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(184,22): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(184,22): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(184,18): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(186,40): warning C4244: “参数”: 从“double”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(186,40): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(186,40): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(186,40): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(186,40): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(186,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(188,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(192,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(200,22): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(201,42): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(201,42): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(201,42): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(201,42): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(201,42): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(201,22): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(201,22): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(201,22): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(201,22): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(201,22): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(201,18): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(202,42): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(202,42): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(202,42): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(202,42): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(202,42): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(202,22): warning C4244: “参数”: 从“float”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(202,22): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(202,22): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(202,22): warning C4244:             _T=int
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(202,22): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(202,18): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(204,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(206,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(210,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(2,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(7,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(12,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(17,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(22,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(27,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(32,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(37,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(42,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(43,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(47,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(48,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(52,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(53,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(57,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(58,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(62,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(63,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(67,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(68,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(72,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(73,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,28): warning C4244: “参数”: 从“int”转换到“_T”，可能丢失数据
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,28): warning C4244:         with
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,28): warning C4244:         [
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,28): warning C4244:             _T=float
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,28): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(77,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_aout_common_cases.h(78,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_amid_common.h(10,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_amid_common.h(11,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_z_amid_common.h(13,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(221,19): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(222,19): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(223,23): warning C4244: “=”: 从“double”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(224,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(259,10): warning C4244: “*=”: 从“float”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(264,10): warning C4244: “*=”: 从“float”转换到“short”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(285,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(285,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(287,52): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(287,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(292,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(292,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(293,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(295,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(296,58): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(296,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(299,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_rectperform.h(299,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(24,21): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(81,30): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(85,30): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(105,15): warning C4244: “初始化”: 从“float”转换到“clock_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(173,30): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(235,29): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(313,42): warning C4244: “参数”: 从“float”转换到“clock_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(368,29): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(370,28): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(372,29): warning C4244: “=”: 从“float”转换到“clock_t”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(477,20): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(488,21): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(491,7): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_core.h(154,47): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_core.h(155,47): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_string.h(29,22): warning C4018: “<”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_string.h(29,22):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_json.h(246,20):
+  	查看对正在编译的函数 模板 实例化“std::string str<std::string>(const std::vector<std::string,std::allocator<std::string>> &)”的引用
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(242,1): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  (编译源文件“main.cpp”)
+  D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_math.h(242,1):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_core.h(139,6):
+  	查看对正在编译的函数 模板 实例化“bool HaveFlag<InitMode>(_Tp,const _Tp)”的引用
+          with
+          [
+              _Tp=InitMode
+          ]
+  
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_json.h(444,1): warning C4715: “ParseList”: 不是所有的控件路径都返回值
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_json.h(380,1): warning C4715: “ParseJSON”: 不是所有的控件路径都返回值
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_json.h(108,1): warning C4715: “JSON::HaveKey”: 不是所有的控件路径都返回值
+D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\Common\mv_script.h(31,1): warning C4715: “Command::GetMajor”: 不是所有的控件路径都返回值
+  最伟大的摇滚，.vcxproj -> D:\Wormwaker\PROGRAMS\C、C++\Amusement\MVCreations\最伟大的摇滚，\Debug\最伟大的摇滚，.exe

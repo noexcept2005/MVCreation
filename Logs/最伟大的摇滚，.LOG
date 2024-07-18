@@ -1,0 +1,37 @@
+===========================
+     MV C++ Performer      
+  Framework by Wormwaker   
+
+* Product Name: 最伟大的摇滚，
+===========================
+MV_Init: 初始化中...
+显示器缩放比例：125%
+窗口尺寸： uix=1280, uiy=720
+MV_Load: 载入中...
+成功加载字体：得意黑
+成功加载字体：颜真卿多宝塔碑
+成功加载字体：XQjuzhentiZJSY
+成功加载字体：Aa机甲黑
+成功加载字体：Aa未来黑 75
+成功加载字体：字跳字唱硬核-闪 电闪
+FontManager::AddFontFamilies:  加载字体结果： 6 / 6
+MV_SetStageTimes: 设置各阶段时长  前 3000 ms, 中 120000 ms, 后 3000 ms
+MV_Before: 播放前的展示
+AddEffect id=9
+AddEffect id=9
+AddEffect id=9
+AddEffect id=9
+AddEffect id=9
+AddEffect id=9
+ElementPerformer: 清除所有元素
+AddEffect id=1
+AddEffect id=2
+AddEffect id=9
+ElementPerformer: 清除所有元素
+AddEffect id=6
+AddEffect id=9
+MV_After: 播放后的展示
+MV_Unload: 开始卸载数据...
+FontManager::Dispose:  卸载字体结果： 6 / 6
+退出...
+ElementPerformer: 清除所有元素

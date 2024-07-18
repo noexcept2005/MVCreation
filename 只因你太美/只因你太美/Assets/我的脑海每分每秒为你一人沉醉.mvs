@@ -1,0 +1,128 @@
+region duration 9100L
+camera clear
+clear
+text add text="我" life=90L sx=80 sy=uiy-200 s_fs=180 s_color=#&7 a_in="none" a_out="none" font="1"
+sleep 40
+text add text="我的" life=90L sx=80 sy=uiy-200 s_fs=180 s_color=#&7 a_in="none" a_out="none" font="1"
+sleep 40
+text add text="我的脑" life=90L sx=80 sy=uiy-200 s_fs=180 s_color=#110;110;110 a_in="none" a_out="none" font="1"
+sleep 40
+text add text="我的脑海" life=90L sx=80 sy=uiy-200 s_fs=180 s_color=#100;100;100 a_in="none" a_out="none" font="1"
+sleep 40
+text add text="我的脑海" life=490L sx=80 sy=uiy-200 s_fs=180 s_color=#&15 a_in="none" a_out="none" font="1"
+text add text="每" life=100L sx=uix-480 sy=180 s_fs=280 s_color=#50;205;50 a_in="none" a_out="none" font="5"
+sleep 60
+text add text="分" life=1500L sx=uix-175 sy=140 ex=uix-175 ey=100 s_fs=120 e_fs=100 s_color=#50;205;50 e_color=#&0 a_in="none" a_out="none" font="5"
+sleep 60
+text add text="每" life=1800L sx=uix-480 sy=180 s_fs=280 s_color=#255;127;0 e_color=#&7 a_in="none" a_out="enlarge" out_time=500L font="5"
+sleep 60
+text add text="秒" life=1500L sx=uix-175 sy=210 ex=uix-175 ey=170 s_fs=120 e_fs=100 s_color=#255;127;0 e_color=#&0 a_in="none" a_out="none" font="5"
+sleep 60
+text add text="为" life=90L sx=620 sy=235 s_fs=170 s_color=#176;224;230 a_in="none" a_out="none" font="1"
+sleep 50
+text add text="为你" life=90L sx=440 sy=235 s_fs=170 s_color=#176;224;230 a_in="none" a_out="none" font="1"
+sleep 50
+text add text="为你一" life=90L sx=260 sy=235 s_fs=170 s_color=#176;224;230 a_in="none" a_out="none" font="1"
+sleep 50
+text add text="为你一人" life=100L sx=80 sy=235 s_fs=170 s_color=#176;224;230 a_in="none" a_out="none" font="1"
+sleep 60
+text add text="我的脑海" life=490L sx=80 sy=uiy-200 s_fs=180 s_color=#255;140;0 a_in="none" a_out="none" font="1"
+text add text="为你一人" life=600L sx=80 sy=235 s_fs=170 s_color=#192;255;62 a_in="none" a_out="none" font="1"
+text add text="沉醉" life=600L sx=80 sy=10 s_fs=220 s_color=#255;193;193 a_in="shrink" in_time=200L a_out="none" font="3"
+sleep 500
+clear
+text add text="最" life=1500L sx=uix-200 sy=70 s_rot=50.0f s_fs=150 s_color=#&15 a_in="from_rightdown_cubic" in_time=390L font="5"
+text add text="迷" life=1500L sx=uix-360 sy=240 s_rot=-50.0f s_fs=150 s_color=#&15 a_in="from_rightdown_cubic" in_time=390L font="5"
+text add text="人" life=1500L sx=uix-490 sy=480 s_rot=50.0f s_fs=150 s_color=#&15 a_in="from_rightdown_cubic" in_time=390L font="5"
+sleep 15
+text add text="让" life=1700L sx=uix-500 sy=140 s_rot=70.0f s_fs=160 s_color=#238;130;238 a_in="from_rightdown_cubic" in_time=400L font="5"
+text add text="我" life=1700L sx=uix-720 sy=490 s_rot=-70.0f s_fs=160 s_color=#238;130;238 a_in="from_rightdown_cubic" in_time=400L font="5"
+sleep 70
+text add text="神" life=1400L sx=120 sy=30 s_fs=280 s_color=#205;51;51 a_in="none" a_out="enlarge" font="4"
+sleep 40
+text add text="魂" life=1400L sx=430 sy=30 s_fs=280 s_color=#205;51;51 a_in="none" a_out="enlarge" font="4"
+sleep 40
+text add text="颠" life=1400L sx=120 sy=370 s_fs=280 s_color=#205;51;51 a_in="none" a_out="enlarge" font="4"
+sleep 40
+text add text="倒" life=1400L sx=430 sy=370 s_fs=280 s_color=#205;51;51 a_in="none" a_out="enlarge" font="4"
+sleep 40
+text add text="是_" life=90L sx=uix-380 sy=uiy-350 s_fs=240 s_color=#255;246;143 a_in="none" a_out="none" font="5"
+sleep 20
+text add text="是你`" life=90L sx=uix-620 sy=uiy-350 s_fs=240 s_color=#255;246;143 a_in="none" a_out="none" font="5"
+sleep 20
+text add text="是你身_" life=90L sx=uix-860 sy=uiy-350 s_fs=240 s_color=#255;246;143 a_in="none" a_out="none" font="5"
+sleep 20
+text add text="是你身上_" life=90L sx=uix-1100 sy=uiy-350 s_fs=240 s_color=#255;246;143 a_in="none" a_out="none" font="5"
+sleep 25
+background fade to=#80;0;0 duration=150L
+text add text="是你身上`" life=700L sx=uix-1100 sy=uiy-350 s_fs=240 s_color=#127;255;0 a_in="none" a_out="to_right_expo" font="5"
+sleep 10
+rect add type="image" image="flower_1.png" life=920L sx=uix-300 sy=uiy-280 a_in="fadein" in_time=120L a_out="to_right_expo" out_time=150L
+rect add type="image" image="flower_2.png" life=920L sx=20 sy=uiy-280 a_in="fadein" in_time=120L a_out="to_left_expo" out_time=150L
+text add text="香" life=1200L sx=midx-265 sy=midy-285 s_fs=550 s_color=#1;1;1 a_in="fadein" in_time=100L out_time=300L a_out="shrink" font="3"
+text add text="香" life=1200L sx=midx-275 sy=midy-295 s_fs=550 s_color=#205;205;0 e_color=#192;255;62 a_in="fadein" in_time=100L out_time=300L a_out="shrink" font="3"
+sleep 10
+text add text="水" life=900L sx=midx-45 sy=midy-45 ex=midx-350 ey=midy-220 change_func="ease_out_cubic" s_fs=90 e_fs=190 s_color=#30;144;255 e_color=#100;149;237 font="3" a_in="none" a_out="enlarge"
+text add text="水" life=900L sx=midx-45 sy=midy-45 ex=midx-350 ey=midy+130 change_func="ease_out_cubic" s_fs=90 e_fs=190 s_color=#30;144;255 e_color=#100;149;237 font="3" a_in="none" a_out="enlarge"
+text add text="水" life=900L sx=midx-45 sy=midy-45 ex=midx+260 ey=midy-220 change_func="ease_out_cubic" s_fs=90 e_fs=190 s_color=#30;144;255 e_color=#100;149;237 font="3" a_in="none" a_out="enlarge"
+text add text="水" life=900L sx=midx-45 sy=midy-45 ex=midx+260 ey=midy+130 change_func="ease_out_cubic" s_fs=90 e_fs=190 s_color=#30;144;255 e_color=#100;149;237 font="3" a_in="none" a_out="enlarge"
+sleep 300
+clear
+background fade to=#&0 duration=400L
+text add text="Oh" life=2000L sx=30 sy=50 s_fs=190 s_color=#&15 font="5" a_in="none" a_out="to_left_expo"
+sleep 50
+text add text="Right" life=1950L sx=30 sy=255 s_fs=140 s_color=#200;200;200 font="5" a_in="none" a_out="to_left_expo"
+sleep 50
+text add text="Baby" life=1900L sx=440 sy=255 s_fs=140 s_color=#200;200;200 font="5" a_in="none" a_out="to_left_expo"
+sleep 50
+text add text="I'M`FALLING" life=1850L sx=180 sy=450 s_fs=150 s_color=#210;210;210 e_color=#230;230;230 font="3" a_in="from_left_cubic" a_out="to_right_expo"
+sleep 290
+text add text="LOVE" life=1700L sx=uix-320 sy=110 s_fs=160 s_color=#255;52;179 a_in="fadein" a_out="enlarge" font="6"
+camera set ey=uiy+midy duration=100L
+text add text="LOVE```LOVE```LOVE```LOVE```LOVE" life=500L sx=80 sy=uiy+60 s_fs=90 s_color=#139;28;98 a_in="from_left_cubic" in_time=100L a_out="to_right_expo" out_time=100L font="1"
+text add text="LOVE```LOVE```LOVE```LOVE```LOVE" life=500L sx=110 sy=uiy+210 s_fs=90 s_color=#205;41;144 a_in="from_right_cubic" in_time=100L a_out="to_left_expo" out_time=100L font="1"
+text add text="LOVE```LOVE```LOVE```LOVE```LOVE" life=500L sx=80 sy=uiy+360 s_fs=90 s_color=#139;28;98 a_in="from_left_cubic" in_time=100L a_out="to_right_expo" out_time=100L font="1"
+text add text="LOVE```LOVE```LOVE```LOVE```LOVE" life=500L sx=110 sy=uiy+510 s_fs=90 s_color=#205;41;144 a_in="from_right_cubic" in_time=100L a_out="to_left_expo" out_time=100L font="1"
+text add text="L`O`V`E" life=700L s_fs=220 e_fs=240 sx=midx-385 sy=uiy+280 ex=midx-420 ey=uiy+240 change_func="ease_in_out_back" a_in="none" a_out="fadeout" font="5" s_color=#255;131;250
+sleep 280
+camera return duration=100L
+rect add type="image" image="basketball.png" life=1600L sx=midx-100 sy=uiy-150 s_zoom=0.8f e_zoom=1.0f a_in="fadein" in_time=80L a_out="fadeout" out_time=400L
+text add text="With" life=1500L sx=uix-240 sy=320 s_fs=120 s_color=#180;180;180 a_in="none" a_out="to_right_expo" font="5"
+sleep 150
+text add text="You" life=1350L sx=uix-225 sy=480 s_fs=150 s_color=#255;165;0 a_in="none" a_out="to_down_expo" font="5"
+sleep 250
+clear
+text add text="我的" life=1100L sx=100 sy=80 s_fs=220 s_color=#&15 e_color=#&5 a_in="from_left_cubic" a_out="to_right_expo" font="5" in_time=200L out_time=400L
+text add text="一切" life=1100L sx=uix-520 sy=uiy-300 s_fs=220 e_color=#&5 s_color=#&15 a_in="from_right_cubic" a_out="to_left_expo" font="5" in_time=200L out_time=400L
+sleep 80
+text add text="你都" life=600L sx=uix-520 sy=80 s_fs=220 s_color=#123;104;138 a_in="from_right_cubic" a_out="to_left_expo" font="5" in_time=200L out_time=400L
+text add text="拿走" life=600L sx=10 sy=uiy-300 s_fs=220 s_color=#123;104;138 a_in="from_left_cubic" a_out="to_right_expo" font="5" in_time=200L out_time=400L
+background fade to=#&15 duration=100L
+sleep 300
+text add text="只" life=800L sx=midx-550 sy=midy-250 ey=midy s_fs=300 s_rot=50.0f s_color=#5;5;5 a_in="none" a_out="to_down_expo" font="4"
+sleep 40
+text add text="要" life=800L sx=midx-270 sy=midy-350 ey=midy-100 s_fs=300 s_rot=50.0f s_color=#5;5;5 a_in="none" a_out="to_down_expo" font="4"
+sleep 40
+text add text="有" life=800L sx=midx+50 sy=midy-250 ey=midy s_fs=300 s_rot=50.0f s_color=#5;5;5 a_in="none" a_out="to_down_expo" font="4"
+sleep 40
+text add text="你" life=800L sx=midx+340 sy=midy-350 ey=midy-100 s_fs=300 s_rot=50.0f s_color=#5;5;5 a_in="none" a_out="to_down_expo" font="4"
+sleep 100
+background fade to=#&0 duration=150L
+text add text="就``就``就``就``就``就``就``就``就``就``" life=150L sx=100 sy=50 a_in="from_left_cubic" a_out="to_right_expo" in_time=2L out_time=50L s_color=#&15 s_fs=100 font="5"
+text add text="就``就``就``就``就``就``就``就``就``就``" life=150L sx=150 sy=200 a_in="from_right_cubic" a_out="to_left_expo" in_time=2L out_time=50L s_color=#200;200;200 s_fs=100 font="5"
+text add text="就``就``就``就``就``就``就``就``就``就``" life=150L sx=100 sy=350 a_in="from_left_cubic" a_out="to_right_expo" in_time=2L out_time=50L s_color=#&15 s_fs=100 font="5"
+text add text="就``就``就``就``就``就``就``就``就``就``" life=150L sx=150 sy=500 a_in="from_right_cubic" a_out="to_left_expo" in_time=2L out_time=50L s_color=#200;200;200 s_fs=100 font="5"
+sleep 25
+clear
+text add text="已``已``已``已``已``" life=130L sx=150 sy=80 a_in="from_right_cubic" a_out="to_left_expo" in_time=2L out_time=50L s_color=#255;130;71 s_fs=160 font="5"
+text add text="已``已``已``已``已``" life=130L sx=210 sy=280 a_in="from_left_cubic" a_out="to_right_expo" in_time=2L out_time=50L s_color=#255;140;0 s_fs=160 font="5"
+text add text="已``已``已``已``已``" life=130L sx=150 sy=480 a_in="from_right_cubic" a_out="to_left_expo" in_time=2L out_time=50L s_color=#255;130;71 s_fs=160 font="5"
+sleep 25
+text add text="足" life=150L sx=200 sy=90 a_in="from_left_cubic" a_out="none" in_time=2L s_color=#255;165;0 s_fs=300 font="4"
+text add text="足" life=150L sx=uix-450 sy=90 a_in="from_up_cubic" a_out="none" in_time=2L s_color=#255;215;0 s_fs=300 font="4"
+text add text="足" life=150L sx=uix-450 sy=uiy-340 a_in="from_right_cubic" a_out="none" in_time=2L s_color=#255;165;0 s_fs=300 font="4"
+text add text="足" life=150L sx=200 sy=uiy-340 a_in="from_down_cubic" a_out="none" in_time=2L s_color=#255;215;0 s_fs=300 font="4"
+sleep 25
+text add text="够" life=800L sx=midx-275 sy=midy-275 a_in="fadein" in_time=150L a_out="fadeout" out_time=100L s_color=#&12 s_fs=550 font="4"
+sleep 200
+region wait

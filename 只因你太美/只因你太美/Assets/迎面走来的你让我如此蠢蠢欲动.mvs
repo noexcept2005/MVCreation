@@ -1,0 +1,69 @@
+region duration 19600L
+sleep 400
+text add text="迎面走来的你" life=2200L s_color=#&11 e_color=#&15 sx=40 sy=100 a_in="from_up_cubic" a_out="fadeout" in_time=250 s_fs=170 font="6"
+sleep 100
+rect add type="image" image="cxk_13.png" life=2400L sx=uix-515 ex=uix-555 sy=midy-360 a_in="from_right_cubic" a_out="fadeout" s_alpha=200s e_alpha=250s change_func="lerp"
+sleep 400
+text add text="让我如此" life=1800L s_color=#&2 e_color=#&15 sx=250 sy=290 a_in="enlarge" a_out="fadeout" s_fs=110 font="3"
+sleep 500
+text add text="蠢蠢欲动" life=2000L s_color=#&14 e_color=#&12 sx=240 sy=460 a_in="shrink" a_out="enlarge" s_fs=160 font="4"
+sleep 800
+text add text="这种感觉我从未有" life=2000L s_color=#&8 e_color=#&15 sx=40 sy=uiy-150 a_in="shrink" a_out="fadeout" s_fs=120 font="5"
+sleep 700
+rect add type="image" image="cxk_14.png" life=3300L sx=uix-384 ex=uix-404 sy=midy-292 s_alpha=90s e_alpha=200s change_func="lerp" a_in="from_up_cubic" in_time=200L a_out="enlarge" out_time=800L
+text add text="Cause`I`got`a`crush`on`you" life=2500L s_color=#&12 e_color=#&14 sx=40 sy=uiy-240 a_in="shrink" a_out="shrink" s_fs=80 font="5"
+sleep 800
+text add text="Who`You" life=2200L s_color=#&3 e_color=#&12 sx=40 sy=uiy-400 a_in="shrink" a_out="enlarge" s_fs=180 font="5"
+sleep 2760
+text add text="你是我的" life=2000L s_color=#&1 e_color=#&11 sx=uix-490 sy=200 a_in="shrink" a_out="to_up_expo" s_fs=130 font="5"
+rect add type="image" image="cxk_15.png" life=2400L sx=80 sy=uiy-280 ey=uiy-380 change_func="ease_in_out_sine" s_alpha=120s e_alpha=250s a_in="from_left_cubic" in_time=600L a_out="fadeout" out_time=400L
+sleep 500
+text add text="我是" life=2300L s_color=#&5 e_color=#&12 sx=uix-90 sy=300 ex=300 ey=180 change_func="ease_out_cubic" a_in="none" a_out="shrink" s_fs=140 font="5"
+sleep 400
+text add text="你的" life=2000L s_color=#&6 e_color=#&14 sx=700 sy=10 ex=700 ey=90 a_in="fadein" a_out="fadeout" s_fs=180 font="5"
+sleep 400
+text add text="谁" life=1800L s_color=#&2 e_color=#&15 sx=650 sy=250 a_in="shrink" a_out="to_down_expo" s_fs=400 font="4"
+sleep 250
+effect add id="shake"
+sleep 940
+text add text="再多一眼看一眼" life=1900L s_color=#&10 e_color=#&7 sx=uix-90 sy=300 ex=300 ey=140 change_func="ease_out_cubic" a_in="none" a_out="shrink" s_fs=120 font="5"
+background fade to=#25;25;25 duration=700L
+sleep 800
+text add text="就会爆炸" life=1000L s_color=#&7 e_color=#&12 sx=400 sy=340 change_func="ease_out_cubic" a_in="from_left_cubic" a_out="enlarge" s_fs=80 e_fs=180 font="4"
+background fade to=#&4 duration=300L
+sleep 250
+effect add id="shake"
+rect add type="image" image="explosion.png" life=700L s_zoom=0.9f e_zoom=2.3f s_alpha=100s e_alpha=255s sx=uix-390 sy=uiy-380 a_in="none" a_out="fadeout" out_time=350L
+sleep 50
+sound quickplay "Explosion.wav"
+background fade to=#&0 duration=800L
+sleep 800
+text add text="再近一点靠近点" life=1900L s_color=#&10 e_color=#&7 sx=uix-160 sy=30 ex=90 ey=uiy-155 change_func="ease_in_expo" a_in="none" a_out="fadeout" s_fs=120 font="5"
+background fade to=#85;26;139 duration=900L
+sleep 900
+rect add type="image" image="cxk_5.png" life=1800L s_zoom=0.8f e_zoom=0.1f s_alpha=250s e_alpha=180s a_in="from_right_cubic" in_time=190L a_out="fadeout" out_time=180L sx=uix-300 sy=uiy-290
+text add text="快被融化" life=1500L s_color=#&7 e_color=#&11 sx=uix-100 sy=0 ex=240 ey=300 change_func="ease_out_cubic" a_in="none" a_out="enlarge" s_fs=90 e_fs=180 font="4"
+background fade to=#0;0;60 duration=1110L
+sleep 250
+effect add id="shake"
+sleep 150
+sound quickplay "Water1.wav"
+sleep 660
+text add text="想要把你占为己有" life=1900L s_color=#&7 e_color=#&7 sx=380 sy=-100 ex=380 ey=290 change_func="ease_out_cubic" a_in="none" a_out="shrink" s_fs=150 font="2"
+sleep 1100
+text add text="Baby`bae" life=1160L s_color=#&12 e_color=#&13 sx=400 sy=390 a_in="shrink" a_out="fadeout" s_fs=110 e_fs=200 font="4"
+background fade to=#0;100;0 duration=3000L
+sleep 900
+text add text="不管走到哪里" life=1700L s_color=#&14 e_color=#&6 sx=10 sy=uiy-30 ex=uiy-600 ey=uiy-150 change_func="ease_out_cubic" a_in="none" a_out="shrink" s_fs=100 font="5"
+sleep 400
+text add text="都会想起的人是你" life=2200L s_color=#&8 e_color=#&13 sx=540 sy=uiy ex=290 ey=290 change_func="ease_out_cubic" a_in="none" a_out="shrink" s_fs=120 font="1"
+background fade to=#&0 duration=2000L
+sleep 880
+rect add type="image" image="cxk_0.png" life=1500L sx=-90 sy=280 s_zoom=0.6f s_rot=0.0f e_rot=140.0f change_func="ease_in_out_sine" a_in="fadein" a_out="fadeout"
+text add text="You" life=1130L s_color=#&8 e_color=#&10 sx=100 sy=190 a_in="from_left_cubic" a_out="enlarge" s_fs=170 s_rot=140.0f font="5"
+camera set ex=350 e_zoom=1.0f e_rot=140.0f duration=1500L change_func="ease_in_out_sine"
+sleep 300
+text add text="You" life=1160L s_color=#&6 e_color=#&12 sx=100 sy=390 a_in="from_left_cubic" a_out="enlarge" s_fs=170 s_rot=140.0f font="5"
+sleep 1330
+camera return duration=3500L
+region wait

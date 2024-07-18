@@ -1,0 +1,108 @@
+region duration 14900L
+camera set ex=midx-220 e_zoom=1.6f e_rot=15.0f duration=1100L change_func="ease_in_expo"
+sleep 300
+text add text="我" life=9000L sx=40 sy=midy-60 ey=midy-260 s_fs=110 change_func="lerp" motion_delay=3500L s_color=#&7 e_color=#&15 s_rot=50.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+rect add type="image" image="cxk_8.png" life=4000L sx=200 sy=midy+40 ex=290 ey=midy+10 s_zoom=0.6f e_zoom=0.9f a_in="fadein" a_out="fadeout" change_func="ease_in_out_sine"
+text add text="愿" life=9000L sx=160 sy=midy-100 ey=midy-380 s_fs=100 change_func="lerp" motion_delay=3500L s_color=#&7 e_color=#255;48;48 s_rot=5.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="意" life=9000L sx=270 sy=midy-95 ey=midy-375 s_fs=100 change_func="lerp" motion_delay=3500L s_color=#&7 e_color=#255;48;48 s_rot=-20.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="把" life=9000L sx=390 sy=midy-85 ey=midy-365 s_fs=110 change_func="lerp" motion_delay=3500L s_color=#&7 e_color=#170;170;170 s_rot=-30.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+camera set ex=midx+380 ey=midy-50 e_zoom=1.6f e_rot=5.0f duration=2900L change_func="ease_in_cubic"
+sleep 100
+text add text="我" life=9000L sx=510 sy=midy-105 ey=midy-385 s_fs=100 change_func="lerp" motion_delay=2900L s_color=#&7 e_color=#&15 s_rot=-20.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="的" life=9000L sx=620 sy=midy-105 ey=midy-385 s_fs=100 change_func="lerp" motion_delay=2900L s_color=#&7 e_color=#&15 s_rot=-20.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="全" life=9000L sx=730 sy=midy-90 ey=midy-370 s_fs=105 change_func="lerp" motion_delay=2900L s_color=#&7 e_color=#255;185;15 s_rot=0.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="部" life=9000L sx=845 sy=midy-90 ey=midy-370 s_fs=95 change_func="lerp" motion_delay=2900L s_color=#&7 e_color=#255;185;15 s_rot=0.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="都" life=9000L sx=950 sy=midy-105 ey=midy-385 s_fs=100 change_func="lerp" motion_delay=2900L s_color=#&7 e_color=#&15 s_rot=20.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="给" life=9000L sx=1060 sy=midy-110 ey=midy-390 s_fs=97 change_func="lerp" motion_delay=2900L s_color=#&7 e_color=#&15 s_rot=-30.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="你" life=9000L sx=1167 sy=midy-108 ey=midy-388 s_fs=110 change_func="lerp" motion_delay=2900L s_color=#&7 e_color=#255;105;181 s_rot=20.0f font="5" a_in="from_down_cubic" in_time=330L a_out="to_up_expo"
+sleep 100
+camera return duration=900L
+sleep 300
+text add text="我每天" life=1800L sx=80 sy=uiy-270 s_fs=120 font="1" a_in="shrink" in_time=150L a_out="fadeout" out_time=350L s_color=#255;130;171
+sleep 250
+text add text="在梦" life=1800L sx=440 sy=uiy-290 s_fs=95 font="1" a_in="from_down_cubic" in_time=150L a_out="fadeout" out_time=350L s_color=#255;127;0
+sleep 100
+text add text="里" life=1800L sx=470 sy=uiy-195 s_fs=96 font="1" a_in="shrink" in_time=150L a_out="fadeout" out_time=350L s_color=#255;99;71
+sleep 100
+text add text="都" life=1800L sx=640 sy=uiy-280 s_fs=94 font="1" a_in="from_down_cubic" in_time=150L a_out="fadeout" out_time=350L s_color=#200;200;200 e_color=#&15
+text add text="梦" life=1800L sx=640 sy=uiy-181 s_fs=94 font="1" a_in="from_down_cubic" in_time=150L a_out="fadeout" out_time=350L s_color=#200;200;200 e_color=#&15
+sleep 250
+text add text="见你" life=1800L sx=750 sy=uiy-195 s_fs=120 font="1" a_in="from_left_cubic" in_time=150L a_out="fadeout" out_time=350L s_color=#200;200;200 e_color=#&15
+sleep 500
+text add text="还有" life=2000L sx=30 sy=uiy-280 s_fs=95 font="1" a_in="none" a_out="fadeout" out_time=350L s_color=#&15
+sleep 100
+text add text="我" life=2000L sx=60 sy=uiy-172 s_fs=100 font="1" a_in="from_down_cubic" a_out="fadeout" out_time=350L s_color=#&15
+sleep 200
+text add text="闭着" life=2000L sx=260 sy=uiy-300 s_fs=100 font="1" a_in="none" a_out="fadeout" out_time=350L s_color=#&12
+sleep 300
+text add text="眼睛" life=2000L sx=460 sy=uiy-300 s_fs=100 font="1" a_in="none" a_out="fadeout" out_time=350L s_color=#&14
+sleep 300
+text add text="也能" life=2000L sx=400 sy=uiy-190 s_fs=100 font="1" a_in="none" a_out="fadeout" out_time=350L s_color=#&12
+sleep 400
+text add text="看到" life=2000L sx=620 sy=uiy-190 s_fs=100 font="1" a_in="none" a_out="fadeout" out_time=350L s_color=#&14
+sleep 300
+text add text="你" life=2000L sx=800 sy=uiy-220 s_fs=160 font="1" a_in="none" a_out="to_right_expo" out_time=350L s_color=#&15
+sleep 280
+camera set ex=midx-200 e_zoom=1.2f e_rot=15.0f duration=1000L change_func="ease_in_expo"
+sleep 660
+text add text="现" life=7000L sx=40 sy=midy-90 ey=midy-260 s_fs=110 change_func="lerp" motion_delay=3000L s_color=#&7 e_color=#&15 s_rot=10.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="在" life=7000L sx=160 sy=midy-90 ey=midy-260 s_fs=110 change_func="lerp" motion_delay=3000L s_color=#&7 e_color=#&15 s_rot=10.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="开" life=7000L sx=270 sy=midy-101 ey=midy-271 s_fs=100 change_func="lerp" motion_delay=3000L s_color=#&7 e_color=#255;48;48 s_rot=15.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+camera set ex=midx+290 ey=midy-50 e_zoom=1.1f e_rot=5.0f duration=1700L change_func="ease_in_cubic"
+text add text="始" life=7000L sx=390 sy=midy-101 ey=midy-271 s_fs=100 change_func="lerp" motion_delay=3000L s_color=#&7 e_color=#170;170;170 s_rot=13.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="我" life=7000L sx=510 sy=midy-95 ey=midy-265 s_fs=110 change_func="lerp" motion_delay=3000L s_color=#&7 e_color=#&15 s_rot=-20.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+rect add type="image" image="hen_1.png" life=2600L sx=1000 sy=midy+90 s_zoom=0.5f e_zoom=1.1f s_alpha=255s e_alpha=130s a_in="fadein" a_out="to_right_expo" out_time=600L
+text add text="只" life=7000L sx=620 sy=midy-105 ey=midy-385 s_fs=100 change_func="lerp" motion_delay=3000L s_color=#&7 e_color=#&15 s_rot=-20.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="准" life=7000L sx=730 sy=midy-101 ey=midy-381 s_fs=105 change_func="lerp" motion_delay=3000L s_color=#&7 e_color=#&15 s_rot=0.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="你" life=7000L sx=845 sy=midy-90 ey=midy-370 s_fs=95 change_func="lerp" motion_delay=3000L s_color=#&7 e_color=#255;185;15 s_rot=-7.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="看" life=7000L sx=950 sy=midy-105 ey=midy-385 s_fs=100 change_func="lerp" motion_delay=3000L s_color=#&7 e_color=#&15 s_rot=-20.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 100
+text add text="我" life=7000L sx=1060 sy=midy-100 ey=midy-390 s_fs=97 change_func="lerp" motion_delay=3000L s_color=#&7 e_color=#&15 s_rot=-30.0f font="5" a_in="from_down_cubic" a_out="to_up_expo"
+sleep 520
+camera set ex=midx-300 ey=midy+120 e_zoom=1.5f duration=800L change_func="ease_out_cubic"
+sleep 650
+rect add type="image" image="cxk_body_5.png" life=3400L sx=midx-100 sy=midy+20 s_zoom=0.5f a_in="fadein" a_out="to_down_expo" out_time=400L
+text add text="I" life=2000L sx=80 sy=uiy-270 s_fs=100 font="6" a_in="none" a_out="enlarge" out_time=350L s_color=#&15
+camera set ex=midx-200 ey=midy+123 e_zoom=1.5f duration=50L change_func="ease_out_cubic"
+text add text="don't" life=2000L sx=180 sy=uiy-270 s_fs=100 font="6" a_in="none" a_out="enlarge" out_time=350L s_color=#220;220;220
+camera set ex=midx-200 ey=midy+180 e_zoom=1.5f duration=50L change_func="ease_out_cubic"
+text add text="wanna" life=2000L sx=110 sy=uiy-160 s_fs=130 font="6" a_in="none" a_out="enlarge" out_time=350L s_color=#255;228;196
+camera set ex=midx+200 ey=midy+123 e_zoom=1.5f duration=50L change_func="ease_out_cubic"
+text add text="wake" life=2000L sx=midx+160 sy=uiy-270 s_fs=100 font="6" a_in="none" a_out="enlarge" out_time=350L s_color=#187;255;255
+camera set ex=midx+250 ey=midy+123 e_zoom=1.5f duration=50L change_func="ease_out_cubic"
+text add text="up" life=2000L sx=midx+420 sy=uiy-270 s_fs=100 font="6" a_in="none" a_out="enlarge" out_time=350L s_color=#0;197;205
+camera set ex=midx+180 ey=midy+180 e_zoom=1.5f duration=50L change_func="ease_out_cubic"
+text add text="in" life=2000L sx=midx+120 sy=uiy-160 s_fs=130 font="6" a_in="shrink" a_out="enlarge" out_time=350L s_color=#193;255;193
+camera set ex=midx+230 ey=midy+180 e_zoom=1.5f duration=50L change_func="ease_out_cubic"
+text add text="dream" life=2000L sx=midx+270 sy=uiy-160 s_fs=100 font="6" a_in="shrink" a_out="enlarge" out_time=350L s_color=#255;106;106 e_color=#&12
+sleep 50
+camera set ex=midx ey=midy+80 e_zoom=1.2f duration=1000L change_func="ease_out_cubic"
+sleep 80
+text add text="我只想看你这是" life=1900L sx=midx-385 sy=250 ex=midx-590 ey=235 s_fs=110 e_fs=140 a_in="shrink" in_time=150L a_out="fadeout" font="5" s_color=#240;255;255
+background fade to=#139;34;82 duration=900L
+sleep 220
+effect add id="shake"
+text add text="真" life=1900L sx=midx-370 ex=midx-520 sy=midy+80 s_fs=220 s_color=#250;130;71 e_color=#255;48;48 change_func="lerp" a_in="fadein" a_out="shrink" font="4"
+text add text="心" life=1900L sx=midx-110 sy=midy+90 s_fs=220 s_color=#250;130;71 e_color=#255;48;48 change_func="ease_out_cubic" a_in="fadein" a_out="shrink" font="4"
+text add text="话" life=1900L sx=midx+150 ex=midx+300 sy=midy+80 s_fs=220 s_color=#250;130;71 e_color=#255;48;48 change_func="lerp" a_in="fadein" a_out="shrink" font="4"
+sleep 80
+camera return duration=1600L
+background fade to=#&0 duration=200L
+region wait

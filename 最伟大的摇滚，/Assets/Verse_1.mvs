@@ -1,0 +1,99 @@
+region duration 35500000
+text add text="你的钢门" life=2400L s_color=#&7 sx=240 sy=130 ex=180 change_func="lerp" a_in="shrink" a_out="to_left_expo" s_fs=210 e_fs=220 font="2"
+sleep 350
+effect add id="shake"
+sleep 350
+text add text="比较松弛" life=1800L s_color=#&8 sx=midx-100 sy=midy-10 ex=midx-40 change_func="lerp" a_in="shrink" a_out="to_right_expo" s_fs=210 e_fs=220 font="2"
+sleep 350
+effect add id="shake"
+sleep 1150
+background fade from=#&7 to=#&0 duration=250
+text add text="但是呢" life=2800L s_color=#&1 e_color=#&13 sx=100 sy=90 ex=140 change_func="lerp" a_in="from_up_cubic" a_out="enlarge" s_fs=160 e_fs=240 font="3"
+sleep 480
+text add text="你的纸窗" life=1900L s_color=#&11 sx=midx-80 sy=midy-80 ex=midx-160 change_func="lerp" a_in="from_right_cubic" a_out="to_left_expo" s_fs=220 font="5"
+sleep 800
+text add text="又弥补了" life=1730L s_color=#&15 sx=40 sy=uiy-170 ex=midx-80 ey=uiy-280 change_func="lerp" a_in="from_left_cubic" in_time=500L a_out="enlarge" s_fs=120 e_fs=190 font="2"
+sleep 900
+text add text="这一部分" life=1000L s_color=#&12 sx=midx-550 sy=midy-170 a_in="from_down_cubic" in_time=200L a_out="fadeout" s_fs=340 font="1"
+sleep 1300
+text add text="如果" life=800L s_color=#&7 sx=100 sy=140 a_in="none" a_out="fadeout" s_fs=280 font="2"
+sleep 400
+text add text="做纸窗" life=1100L s_color=#&14 sx=midx-260 sy=midy-190 a_in="fadein" in_time=100L a_out="enlarge" s_fs=300 font="2"
+sleep 500
+text add text="手书" life=1000L s_color=#&15 sx=midx+60 sy=uiy-440 a_in="from_down_cubic" in_time=100L a_out="fadeout" s_fs=400 font="2"
+sleep 1300
+text add text="把" life=2000L s_color=#&15 e_color=#&4 sx=midx-150 sy=midy-150 ex=100 ey=70 move_duration=400L a_in="fadein" in_time=400L a_out="to_up_expo" s_fs=300 e_fs=140 change_func="ease_out_cubic" font="0"
+sleep 400
+text add text="纸窗" life=3000L s_color=#&14 e_color=#&12 sx=midx-170 ex=midx-200 sy=90 a_in="fadein" in_time=150L a_out="to_down_expo" s_fs=170 e_fs=200 font="6"
+sleep 350
+text add text="切" life=2000L s_color=#&3 e_color=#&4 sx=90 sy=midy+40 s_rot=80.0f a_in="shrink" in_time=230L a_out="enlarge" s_fs=260 font="5"
+sleep 150
+effect add id="shake"
+sleep 50
+text add text="除" life=2000L s_color=#&2 e_color=#&5 sx=340 sy=midy+40 s_rot=80.0f a_in="shrink" in_time=230L a_out="enlarge" s_fs=260 font="5"
+sleep 80
+text add text="的" life=2000L s_color=#&3 e_color=#&4 sx=590 sy=midy+40 s_rot=80.0f a_in="shrink" in_time=230L a_out="enlarge" s_fs=260 font="5"
+sleep 50
+effect add id="shake"
+sleep 30
+text add text="话" life=2000L s_color=#&2 e_color=#&5 sx=840 sy=midy+40 s_rot=80.0f a_in="shrink" in_time=230L a_out="enlarge" s_fs=260 font="5"
+sleep 50
+effect add id="shake"
+sleep 180
+effect add id="shake"
+text add text="可能会显" life=4600L s_color=#&4 e_color=#&14 sx=30 sy=0 ex=120 ey=60 move_duration=1800L change_func="ease_in_out_sine" s_rot=-500.0f e_rot=-90.0f a_in="from_left_expo" in_time=280L a_out="to_right_expo" s_fs=240 e_fs=160 font="6"
+sleep 1000
+text add text="得你的钢门" life=3600L s_color=#&2 e_color=#&5 sx=uix-100 sy=110 ex=midx-250 ey=midy-170 move_duration=1000L s_rot=-400.0f e_rot=-90.0f change_func="ease_in_out_sine" a_in="shrink" in_time=230L a_out="enlarge" s_fs=250 e_fs=130 font="5"
+sleep 1600
+text add text="就比较大" life=900L s_color=#&7 sx=midx sy=midy-90 a_in="from_right_cubic" in_time=400L a_out="none" out_time=0L s_fs=180 font="0"
+sleep 800
+text add text="就比较" life=1200L s_color=#&15 sx=midx sy=midy-90 a_in="fadein" a_out="fadeout" s_fs=180 font="0"
+text add text="大" life=1400L s_color=#&10 sx=midx+410 sy=midy-190 a_in="from_right_cubic" in_time=200L a_out="fadeout" s_fs=280 font="0"
+sleep 1200
+clear
+text add text="可能" life=4000L s_color=#&15 e_color=#&12 sx=90 sy=uiy-220 ex=120 change_func="ease_out_cubic" a_in="fadein" a_out="fadeout" s_fs=200 font="4"
+sleep 550
+text add text="会有" life=2900L s_color=#&2 sx=140 sy=90 ex=170 a_in="from_left_cubic" a_out="shrink" s_fs=180 font="2"
+sleep 300
+text add text="一些" life=2800L s_color=#&5 sx=280 sy=200 ex=310 a_in="from_left_cubic" a_out="shrink" s_fs=180 font="2"
+sleep 900
+effect add id="blur" strength=1.0f duration=3000L in_time=250L out_time=500L
+text add text="漏" life=3500L s_color=#&3 sx=uix-300 sy=0 s_rot=-100.0f a_in="from_up_expo" a_out="fadeout" out_time=800L s_fs=240 font="6"
+sleep 150
+text add text="液" life=3500L s_color=#&12 sx=uix-480 sy=280 s_rot=100.0f a_in="from_up_expo" a_out="fadeout" out_time=800L s_fs=240 font="6"
+sleep 150
+text add text="漏" life=3500L s_color=#&3 sx=uix-270 sy=295 s_rot=-100.0f a_in="from_up_expo" a_out="fadeout" out_time=800L s_fs=240 font="6"
+sleep 150
+text add text="气" life=3500L s_color=#&14 sx=uix-360 sy=500 s_rot=100.0f a_in="from_up_expo" a_out="fadeout" out_time=800L s_fs=240 font="6"
+sleep 350
+text add text="の情况" life=3000L s_color=#&15 sx=midx-450 sy=midy-160 a_in="from_right_cubic" a_out="shrink" s_fs=300 font="2"
+sleep 150
+effect add id="specl" duration=3100L in_time=200L out_time=1000L
+effect add id="shake"
+sleep 3150
+clear
+text add text="现在" life=2000L s_color=#200;200;200 sx=140 sy=midy-90 a_in="fadein" a_out="enlarge" s_fs=180 font="2"
+sleep 350
+text add text="最``的" life=2000L s_color=#&4 sx=500 sy=midy-265 ey=midy-115 change_func="ease_out_cubic" move_duration=1000L a_in="none" a_out="fadeout" s_fs=230 font="2"
+text add text="``好``" life=2000L s_color=#&3 sx=535 sy=midy+200 ey=midy-115 change_func="ease_out_cubic" move_duration=1000L a_in="none" a_out="fadeout" s_fs=230 font="2"
+sleep 400
+text add text="办法" life=2000L s_color=#200;200;200 sx=890 sy=midy-90 a_in="fadein" a_out="enlarge" s_fs=180 font="2"
+sleep 1430
+text add text="就" life=3000L s_color=#&8 e_color=#&7 sx=40 sy=midy-180 a_in="fadein" a_out="to_left_expo" s_rot=-100.0f s_fs=200 font="0"
+sleep 300
+text add text="是" life=3000L s_color=#&8 e_color=#&7 sx=40 sy=midy a_in="fadein" a_out="to_left_expo" s_rot=-100.0f s_fs=200 font="0"
+sleep 810
+text add text="在做纸窗的同时" life=4300L s_color=#&3 sx=180 ex=250 sy=midy-160 change_func="lerp" a_in="from_up_cubic" a_out="to_down_expo" s_fs=180 font="2"
+sleep 3700
+camera set ey=uiy+370 duration=2400L change_func="ease_in_out_sine"
+sleep 300
+text add text="给你" life=2000L s_color=#&14 sx=300 sy=midy-50 a_in="none" a_out="fadeout" s_fs=180 font="3"
+sleep 300
+text add text="做一个" life=2000L s_color=#&12 sx=300 sy=midy+180 a_in="fadein" a_out="fadeout" s_fs=180 font="6"
+text add text="钢门紧缩术" life=5000L s_color=#&4 e_color=#&12 sx=midx-500 ex=midx-540 sy=uiy+300 ey=uiy+340 a_in="fadein" a_out="fadeout" s_fs=240 e_fs=280 font="5"
+sleep 1160
+//effect add id="drag" duration=4000L
+effect add id="invert" duration=1000L in_time=100L out_time=900L
+sleep 100
+effect add id="shake"
+region wait

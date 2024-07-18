@@ -1,0 +1,73 @@
+region duration 8100L
+text add text="跟着那" life=2000L sx=40 sy=290 s_fs=180 font="3" s_color=#135;206;255 e_color=#127;255;0 a_in="from_leftup_cubic" a_out="fadeout"
+sleep 300
+text add text="节奏" life=1400L sx=480 sy=290 s_fs=200 font="6" s_color=#30;144;255 e_color=#255;215;0 a_in="fadein" a_out="enlarge"
+sleep 200
+camera set ex=midx+320 ey=midy+80 e_zoom=1.5f e_rot=275.0f duration=1100L change_func="ease_in_out_sine"
+text add text="缓缓" life=1800L sx=midx+140 sy=105 s_fs=220 font="5" s_color=#255;110;180 e_color=#0;178;238 s_rot=300.0f a_in="from_right_cubic" in_time=200L a_out="to_left_expo" out_time=800L
+text add text="M" life=1300L s_rot=320.0f sx=midx-100 sy=uiy-280 s_fs=160 font="5" s_color=#255;228;225 e_color=#&13 a_in="from_down_cubic" in_time=900L a_out="to_up_expo" out_time=300L
+text add text="A" life=1300L s_rot=320.0f sx=midx+20 sy=uiy-340 s_fs=160 font="5" s_color=#255;228;225 e_color=#&13 a_in="from_up_cubic" in_time=900L a_out="to_down_expo" out_time=300L
+text add text="K" life=1300L s_rot=320.0f sx=midx+140 sy=uiy-400 s_fs=160 font="5" s_color=#255;228;225 e_color=#&13 a_in="from_down_cubic" in_time=900L a_out="to_up_expo" out_time=300L
+text add text="E" life=1300L s_rot=320.0f sx=midx+260 sy=uiy-460 s_fs=160 font="5" s_color=#255;228;225 e_color=#&13 a_in="from_up_cubic" in_time=900L a_out="to_down_expo" out_time=300L
+//camera set ex=uix-190 ey=midy+140 e_zoom=1.3f e_rot=200.0f duration=1800L change_func="ease_in_out_sine"
+text add text="W" life=1100L s_rot=340.0f sx=midx+230 sy=uiy-300 s_fs=170 font="4" s_color=#176;226;255 e_color=#72;118;255 a_in="from_down_cubic" in_time=900L a_out="to_up_expo" out_time=300L
+text add text="A" life=1100L s_rot=340.0f sx=midx+350 sy=uiy-370 s_fs=170 font="4" s_color=#176;226;255 e_color=#72;118;255 a_in="from_up_cubic" in_time=900L a_out="to_down_expo" out_time=300L
+text add text="V" life=1100L s_rot=340.0f sx=midx+470 sy=uiy-440 s_fs=170 font="4" s_color=#176;226;255 e_color=#72;118;255 a_in="from_down_cubic" in_time=900L a_out="to_up_expo" out_time=300L
+text add text="E" life=1100L s_rot=340.0f sx=midx+580 sy=uiy-510 s_fs=170 font="4" s_color=#176;226;255 e_color=#72;118;255 a_in="from_up_cubic" in_time=900L a_out="to_down_expo" out_time=300L
+sleep 400
+camera set ex=midx-110 ey=uiy-190 e_zoom=0.8f e_rot=900.0f duration=900L
+text add text="甜蜜的" life=1750L sx=midx-90 sy=uiy+300 s_fs=230 s_rot=900.0f e_fs=160 font="5" s_color=#255;250;205 e_color=#255;20;147 a_in="from_down_cubic" a_out="to_up_expo"
+sleep 180
+text add text="奶油" life=1500L sx=midx+140 sy=uiy-80 s_fs=270 s_rot=900.0f e_rot=800.0f font="4" s_color=#255;140;105 e_color=#255;182;193 a_in="shrink" a_out="to_up_expo"
+sleep 190
+camera set ex=midx-350 ey=0 e_rot=1150.0f e_zoom=1.0f duration=600L
+text add text="it's`your" life=1550L sx=midx-190 ex=midx-210 sy=uiy+310 ey=uiy+590 s_rot=1150.0f e_rot=1180.0f s_fs=140 font="6" s_color=#&15 e_color=#154;255;154 change_func="ease_out_cubic" a_in="shrink" a_out="fadeout"
+rect add type="image" image="cake_1.png" life=1550L sx=midx-100 sy=uiy+260 s_zoom=0.9f e_zoom=1.05f s_rot=900.0f s_alpha=180s e_alpha=250s a_in="fadein" a_out="none"
+sleep 380
+//camera set ex=midx-230 ey=-390 e_zoom=2.0f e_rot=990.0f change_func="ease_out_cubic" duration=1300L
+text add text="Birthday`Cake" life=1100L s_rot=1000.0f sx=midx-310 sy=uiy+200 ey=uiy+80 s_fs=100 font="5" s_color=#&15 e_color=#238;232;170 change_func="lerp" a_in="from_up_cubic" a_out="enlarge"
+sleep 100
+camera return duration=1100L
+sleep 400
+text add text="男" life=1800L sx=20 sy=180 ex=150 ey=140 s_fs=200 e_fs=160 s_color=#&15 e_color=#&7 change_func="ease_out_cubic" a_in="none" a_out="fadeout" font="5"
+text add text="人" life=1800L sx=20 sy=380 ex=100 ey=340 s_fs=200 e_fs=160 s_color=#&15 e_color=#&7 change_func="ease_out_cubic" a_in="none" a_out="fadeout" font="5"
+text add text="们" life=1800L sx=20 sy=580 ex=150 ey=540 s_fs=200 e_fs=160 s_color=#&15 e_color=#&7 change_func="ease_out_cubic" a_in="none" a_out="fadeout" font="5"
+sleep 80
+text add text="的" life=1400L sx=midx sy=uiy-400 s_fs=210 s_color=#255;64;64 s_rot=100.0f e_rot=-100.0f change_func="ease_out_cubic" a_in="from_down_cubic" a_out="enlarge" font="3"
+sleep 200
+text add text="GAME" life=500L sx=midx+90 sy=uiy-180 s_fs=140 s_color=#60;179;113 e_color=#50;205;50 a_in="from_right_cubic" a_out="to_left_expo" font="4"
+sleep 290
+text add text="CALL" life=1100L sx=uix-210 sy=30 s_fs=220 s_color=#20;20;20 e_color=#60;60;60 font="5" a_out="to_left_expo" out_time=400L
+text add text="CALL" life=1500L sx=uix-355 sy=80 s_fs=170 s_color=#255;185;15 font="5" a_out="to_left_expo" out_time=700L
+sleep 50
+text add text="me" life=1500L sx=uix-160 sy=264 s_fs=140 s_color=#255;255;224 e_color=#198;226;255 font="2" a_out="to_left_expo" out_time=1000L
+sleep 90
+text add text="你" life=1400L sx=uix-400 sy=uiy-360 s_fs=200 s_color=#255;97;71 e_color=#255;69;0 font="5" a_in="shrink" a_out="to_left_expo"
+sleep 170
+text add text="恋人" life=400L sx=90 sy=midy-100 s_fs=360 s_color=#255;110;180 e_color=#255;181;197 font="4" a_in="none" a_out="none"
+sleep 260
+text add text="恋人" life=1400L sx=145 sy=midy-140 s_fs=360 s_color=#20;20;20 e_color=#60;60;60 font="4" a_in="none" a_out="enlarge"
+text add text="恋人" life=1400L sx=105 sy=midy-100 s_fs=360 s_color=#238;18;137 e_color=#255;20;147 font="4" a_in="none" a_out="enlarge"
+sleep 90
+camera set ex=midx-600 ey=uiy+450 e_rot=900.0f duration=1900L change_func="ease_out_sine"
+sleep 80
+text add text="别" life=1500L sx=280 sy=midy+500 s_rot=300.0f e_rot=500.0f s_color=#&15 e_color=#&12 s_fs=220 font="3" a_in="fadein" a_out="fadeout"
+sleep 50
+text add text="被" life=1500L sx=420 sy=midy+650 s_rot=380.0f e_rot=580.0f s_color=#&15 e_color=#&12 s_fs=210 font="3" a_in="fadein" a_out="fadeout"
+sleep 50
+text add text="欺" life=1500L sx=510 sy=midy+860 s_rot=460.0f e_rot=640.0f s_color=#255;231;186 e_color=#&12 s_fs=150 font="3" a_in="fadein" a_out="fadeout"
+text add text="骗" life=1500L sx=590 sy=midy+970 s_rot=480.0f e_rot=660.0f s_color=#255;231;186 e_color=#&12 s_fs=150 font="3" a_in="fadein" a_out="fadeout"
+sleep 50
+text add text="愉快的" life=1500L sx=650 sy=midy+880 ey=midy+920 s_rot=600.0f e_rot=750.0f s_color=#255;127;36 s_fs=180 font="5" a_in="fadein" a_out="fadeout"
+sleep 30
+text add text="I" life=1400L sx=1380 sy=uix_plus_uiy-640 s_rot=760.0f e_rot=900.0f s_fs=240 s_color=#&15 font="6" a_in="from_right_cubic" a_out="fadeout" in_time=500L
+text add text="w" life=1400L sx=1390 sy=uix_plus_uiy-780 s_rot=760.0f e_rot=900.0f s_fs=230 s_color=#218;112;214 font="6" a_in="from_right_cubic" a_out="fadeout" in_time=500L
+text add text="a" life=1400L sx=1390 sy=uix_plus_uiy-920 s_rot=760.0f e_rot=900.0f s_fs=230 s_color=#218;112;214 font="6" a_in="from_right_cubic" a_out="fadeout" in_time=500L
+text add text="n" life=1400L sx=1390 sy=uix_plus_uiy-1070 s_rot=760.0f e_rot=900.0f s_fs=230 s_color=#218;112;214 font="6" a_in="from_right_cubic" a_out="fadeout" in_time=500L
+text add text="n" life=1400L sx=1390 sy=uix_plus_uiy-1200 s_rot=760.0f e_rot=900.0f s_fs=230 s_color=#218;112;214 font="6" a_in="from_right_cubic" a_out="fadeout" in_time=500L
+text add text="a" life=1400L sx=1390 sy=uix_plus_uiy-1340 s_rot=760.0f e_rot=900.0f s_fs=230 s_color=#218;112;214 font="6" a_in="from_right_cubic" a_out="fadeout" in_time=500L
+text add text="PLAY" life=1400L sx=1230 sy=uix_plus_uiy-860 s_rot=900.0f s_fs=270 s_color=#50;50;50 a_in="from_down_cubic" in_time=800L a_out="enlarge" font="6"
+text add text="PLAY" life=1400L sx=1230 sy=uix_plus_uiy-940 s_rot=900.0f s_fs=250 s_color=#255;64;64 a_in="from_down_cubic" in_time=600L a_out="enlarge" font="6"
+sleep 100
+camera return duration=250L
+region wait

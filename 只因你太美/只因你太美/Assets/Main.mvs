@@ -1,0 +1,24 @@
+////////////////////////////////////////
+//          只因你太美MV脚本            //
+//     Worked On MV C++ Performer     //
+////////////////////////////////////////
+//base_screen_scale 1.0f
+
+#include "鸡你太美.mvs"
+sleep 1050
+#include "迎面走来的你让我如此蠢蠢欲动.mvs"
+#include "我应该拿你怎样.mvs"
+#include "EhOh难道真的因你而疯狂吗.mvs"
+#include "第一次呀变成这样的我.mvs"
+#include "鸡你太美.mvs"
+#include "现在确认地告诉我1.mvs"
+#include "跟着那节奏缓缓make wave.mvs"
+#include "我的脑海每分每秒为你一人沉醉.mvs"
+#include "我到底应该怎样.mvs"
+#include "EhOh难道真的因你而疯狂吗.mvs"
+#include "第一次呀变成这样的我.mvs"
+#include "鸡你太美.mvs"
+#include "我愿意把我的全部都给你.mvs"
+#include "鸡你太美.mvs"
+#include "现在确认地告诉我2.mvs"
+//226 63 -669

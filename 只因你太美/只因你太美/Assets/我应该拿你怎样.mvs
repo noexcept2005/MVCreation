@@ -1,0 +1,51 @@
+region duration 8500L
+camera clear
+text add text="我" life=2150 s_color=#&15 e_color=#&8 sx=50 sy=150 a_in="from_left_cubic" a_out="fadeout" s_fs=340 font="4" in_time=150
+sleep 350
+text add text="应该拿你" life=950 s_color=#&2 e_color=#&3 sx=uix/2 sy=150 a_in="from_right_cubic" a_out="shrink" in_time=150 font="5" s_fs=140
+sleep 380
+text add text="怎样" life=1490 s_color=#&4 e_color=#&14 sx=uix/2 sy=320 a_in="from_down_cubic" a_out="none" in_time=200 font="4" s_fs=250
+sleep 550
+background color #&7
+clear
+text add text="Uh" life=540 s_color=#&1 sx=350 sy=10 a_in="none" a_out="to_left_expo" out_time=100 in_time=0 font="5" s_fs=750
+sleep 540
+background fade to=#47;79;79 duration=300L
+text add text="所有人" life=2000 s_color=#&7 sx=220 sy=80 a_in="from_left_cubic" a_out="fadeout" in_time=250 s_fs=160 font="5"
+sleep 350
+rect add type="image" image="man_2.png" life=1290L sx=uix-180 ex=uix-195 sy=midy-232 s_rot=0.0f e_rot=10.0f s_alpha=80s e_alpha=200s change_func="lerp" a_in="from_right_cubic" a_out="fadeout"
+text add text="都在" life=1650 s_color=#&11 sx=190 sy=300 a_in="from_down_cubic" a_out="shrink" font="6" s_fs=130
+sleep 90
+text add text="看" life=1400 s_color=#&14 sx=uix-400 sy=80 s_rot=-200.0f e_rot=-200.0f a_in="shrink" a_out="to_right_expo" s_fs=250 font="1"
+sleep 150
+text add text="着" life=1150 s_color=#&13 sx=uix-490 sy=270 s_rot=200.0f e_rot=200.0f a_in="shrink" a_out="to_right_expo" s_fs=250 font="1"
+sleep 150
+text add text="你" life=900 s_color=#&12 sx=uix-400 sy=360 s_rot=-200.0f e_rot=-200.0f a_in="shrink" a_out="to_right_expo" s_fs=250 font="1"
+sleep 900
+background fade to=#205;0;0 duration=1900L
+text add text="我" life=1750 s_color=#&7 sx=uix/2 sy=100 s_rot=80.0f a_in="from_up_cubic" a_out="fadeout" s_fs=300 font="4"
+sleep 300
+text add text="的" life=1450 s_color=#&11 sx=uix-300 sy=uiy-590 s_rot=90.0f a_in="none" a_out="fadeout" s_fs=240 font="2"
+sleep 140
+text add text="心" life=1310 s_color=#&11 sx=uix-300 sy=uiy-300 s_rot=90.0f a_in="none" a_out="fadeout" s_fs=240 font="2"
+sleep 140
+text add text="总是" life=1170 s_color=#&12 e_color=#&10 sx=750 sy=uiy-390 a_in="shrink" a_out="to_down_expo" in_time=100 s_fs=200 font="1"
+sleep 50
+rect add type="image" image="electrocardiogram.png" life=1060L sx=midx-405 sy=uiy-420 ex=midx-325 change_func="lerp" a_in="from_left_cubic" a_out="to_right_expo" s_alpha=130s e_alpha=250s
+text add text="不" life=1100 s_color=#&15 e_color=#&8 sx=100 sy=30 s_fs=440 e_fs=360 change_func="ease_in_expo" a_in="none" a_out="fadeout" font="5"
+sleep 140
+text add text="安" life=1100 s_color=#&15 e_color=#&8 sx=385 sy=270 s_fs=460 e_fs=380 change_func="ease_in_expo" a_in="none" a_out="fadeout" font="5"
+sleep 500
+background color #255;215;0
+clear
+text add text="Oh" life=350 s_color=#20;20;20 sx=450 sy=120 s_fs=560 a_in="none" a_out="to_right_expo" out_time=100 font="4"
+background fade to=#&0 duration=200L
+sleep 500
+rect add type="image" image="cxk_10.png" life=1300L sx=uix-520 sy=uiy-550 s_alpha=80s e_alpha=165s a_in="fadein" in_time=150L a_out="fadeout" out_time=80L s_zoom=1.0f
+text add text="我现在" life=1400 s_color=#&7 e_color=#&4 sx=100 sy=150 a_in="from_left_cubic" a_out="to_right_expo" s_fs=190 font="5"
+text add text="膏肓" life=1400 s_color=#&14 e_color=#&12 sx=uix-600 sy=uiy-270 a_in="from_right_cubic" a_out="to_left_expo" s_fs=240 e_fs=300 change_func="ease_in_out_sine" font="5"
+sleep 100
+text add text="已病入" life=1300 s_color=#&14 e_color=#&13 sx=650 sy=260 ex=550 ey=290 a_in="enlarge" a_out="enlarge" s_fs=170 e_fs=90 change_func="lerp" font="2"
+sleep 1000
+background fade to=#178;34;34 duration=700L
+region wait

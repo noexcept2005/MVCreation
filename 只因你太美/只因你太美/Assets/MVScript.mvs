@@ -1,0 +1,106 @@
+////////////////////////////////////////
+//          只因你太美MV脚本            //
+//     Worked On MV C++ Performer     //
+////////////////////////////////////////
+text add text="鸡你太美" life=3700L s_color=#&15 e_color=#&0 sx=100 sy=100.0f ex=900.0f ey=700.0f a_in="shrink" a_out="fadeout" motion_delay=940L change_func="lerp" s_fs=80 e_fs=240 font="4"
+sleep 2900
+text add text="baby" life=3000L s_color=#&12 e_color=#&5 sx=100 sy=500.0f ex=1500.0f ey=-10.0f s_rot=0.0f e_rot=300.0f a_in="enlarge" a_out="to_rightup_cubic" motion_delay=200L change_func="ease_in_expo" s_fs=80 e_fs=240 font="5"
+sleep 2300
+text add text="鸡你太美" life=3700L s_color=#&15 e_color=#&0 sx=uix-400 sy=100.0f ex=10.0f ey=700.0f a_in="shrink" a_out="fadeout" motion_delay=940L change_func="lerp" s_fs=80 e_fs=240 font="4"
+sleep 2780
+text add text="baby" life=3000L s_color=#&11 e_color=#&6 sx=800 sy=500.0f ex=310.0f ey=100.0f s_rot=0.0f e_rot=300.0f a_in="enlarge" a_out="fadeout" motion_delay=200L change_func="ease_in_expo" s_fs=80 e_fs=700 font="5"
+sleep 1000
+text add text="鸡你实在是太美" life=3500L s_color=#&8 e_color=#&15 sx=uix-550 sy=uiy-100 ex=100 ey=100 a_in="enlarge" a_out="enlarge" motion_delay=0L change_func="ease_in_expo" s_fs=80 e_fs=130 font="4"
+sleep 3300
+text add text="baby" life=2500L s_color=#&10 e_color=#&12 sx=uix-400 sy=uiy-300 s_rot=0.0f e_rot=300.0f a_in="from_right_cubic" a_out="enlarge" change_func="ease_out_cubic" s_fs=120 e_fs=130 font="5"
+sleep 2000
+text add text="鸡你太美" life=3400L s_color=#&6 e_color=#&15 sx=0 sy=500 ex=uix-400 ey=300 a_in="enlarge" a_out="fadeout" change_func="ease_in_out_sine" s_fs=40 e_fs=300 font="4"
+sleep 2400
+text add text="Baby" life=2400L s_color=#&1 e_color=#&14 sx=500 sy=350 ex=300 ey=150 a_in="fadein" a_out="enlarge" change_func="ease_in_expo" s_fs=80 e_fs=700 font="5"
+sleep 1900
+text add text="迎面走来的你" life=2200L s_color=#&11 e_color=#&15 sx=300 sy=100 a_in="from_up_cubic" a_out="fadeout" in_time=250 s_fs=170 font="6"
+sleep 500
+text add text="让我如此" life=1800L s_color=#&2 e_color=#&15 sx=400 sy=290 a_in="enlarge" a_out="fadeout" s_fs=110 font="3"
+sleep 500
+text add text="蠢蠢欲动" life=2000L s_color=#&14 e_color=#&12 sx=300 sy=460 a_in="shrink" a_out="enlarge" s_fs=160 font="4"
+sleep 1100
+text add text="这种感觉我从未有" life=2000L s_color=#&8 e_color=#&15 sx=40 sy=uiy-150 a_in="shrink" a_out="fadeout" s_fs=120 font="5"
+sleep 700
+text add text="Cause`I`got`a`crush`on`you" life=2500L s_color=#&12 e_color=#&14 sx=40 sy=uiy-240 a_in="shrink" a_out="shrink" s_fs=80 font="5"
+sleep 800
+text add text="Who`You" life=2200L s_color=#&3 e_color=#&12 sx=40 sy=uiy-400 a_in="shrink" a_out="enlarge" s_fs=180 font="5"
+sleep 2900
+text add text="你是我的" life=2000L s_color=#&1 e_color=#&11 sx=uix-490 sy=200 a_in="shrink" a_out="to_up_expo" s_fs=130 font="5"
+sleep 500
+text add text="我是" life=2300L s_color=#&5 e_color=#&12 sx=uix-90 sy=300 ex=300 ey=180 change_func="ease_out_cubic" a_in="none" a_out="shrink" s_fs=140 font="5"
+sleep 400
+text add text="你的" life=2000L s_color=#&6 e_color=#&14 sx=700 sy=10 ex=700 ey=90 a_in="fadein" a_out="fadeout" s_fs=180 font="5"
+sleep 400
+text add text="谁" life=1800L s_color=#&2 e_color=#&15 sx=650 sy=250 a_in="shrink" a_out="to_down_expo" s_fs=400 font="4"
+sleep 1400
+text add text="再多一眼看一眼" life=1900L s_color=#&10 e_color=#&7 sx=uix-90 sy=300 ex=300 ey=140 change_func="ease_out_cubic" a_in="none" a_out="shrink" s_fs=120 font="5"
+sleep 1000
+text add text="就会爆炸" life=1000L s_color=#&7 e_color=#&12 sx=400 sy=340 change_func="ease_out_cubic" a_in="from_left_cubic" a_out="enlarge" s_fs=80 e_fs=180 font="4"
+sleep 500
+sound quickplay "Explosion.wav"
+sleep 500
+text add text="再近一点靠近点" life=1900L s_color=#&10 e_color=#&7 sx=uix-160 sy=30 ex=90 ey=uiy-155 change_func="ease_in_expo" a_in="none" a_out="fadeout" s_fs=120 font="5"
+sleep 900
+text add text="快被融化" life=1500L s_color=#&11 e_color=#&3 sx=uix-100 sy=0 ex=240 ey=300 change_func="ease_out_cubic" a_in="none" a_out="enlarge" s_fs=90 e_fs=180 font="4"
+sleep 1040
+text add text="想要把你占为己有" life=1900L s_color=#&7 e_color=#&7 sx=380 sy=0 ex=380 ey=290 change_func="ease_out_cubic" a_in="none" a_out="shrink" s_fs=150 font="2"
+sleep 1200
+text add text="Baby`bae" life=1160L s_color=#&12 e_color=#&13 sx=400 sy=390 a_in="shrink" a_out="fadeout" s_fs=110 e_fs=200 font="4"
+sleep 980
+text add text="不管走到哪里" life=1700L s_color=#&14 e_color=#&6 sx=10 sy=uiy-30 ex=uiy-600 ey=uiy-150 change_func="ease_out_cubic" a_in="none" a_out="shrink" s_fs=100 font="5"
+sleep 400
+text add text="都会想起的人是你" life=2200L s_color=#&8 e_color=#&13 sx=540 sy=uiy ex=290 ey=290 change_func="ease_out_cubic" a_in="none" a_out="shrink" s_fs=120 font="1"
+sleep 900
+text add text="You" life=1130L s_color=#&8 e_color=#&10 sx=100 sy=190 a_in="from_left_cubic" a_out="enlarge" s_fs=170 font="5"
+sleep 300
+text add text="You" life=1160L s_color=#&6 e_color=#&12 sx=100 sy=390 a_in="from_left_cubic" a_out="enlarge" s_fs=170 font="5"
+sleep 1750d
+text add text="我" life=2150 s_color=#&15 e_color=#&8 sx=50 sy=150 a_in="from_left_cubic" a_out="fadeout" s_fs=340 font="4" in_time=150
+sleep 350
+text add text="应该拿你" life=1850 s_color=#&2 e_color=#&3 sx=uix/2 sy=150 a_in="from_right_cubic" a_out="shrink" in_time=150 font="5" s_fs=140
+sleep 380
+text add text="怎样" life=1490 s_color=#&4 e_color=#&14 sx=uix/2 sy=320 a_in="from_down_cubic" a_out="none" in_time=200 font="4" s_fs=250
+sleep 590
+text clear
+text add text="Uh" life=480 s_color=#&8 sx=350 sy=10 a_in="none" a_out="to_left_expo" out_time=100 in_time=0 font="5" s_fs=750
+sleep 540
+text add text="所有人" life=2000 s_color=#&7 sx=220 sy=80 a_in="from_left_cubic" a_out="fadeout" in_time=250 s_fs=160 font="5"
+sleep 350
+text add text="都在" life=1650 s_color=#&11 sx=190 sy=300 a_in="from_down_cubic" a_out="shrink" font="6" s_fs=130
+sleep 240
+text add text="看" life=1400 s_color=#&14 sx=uix-400 sy=80 s_rot=-200.0f e_rot=-200.0f a_in="shrink" a_out="to_right_expo" s_fs=250 font="1"
+sleep 150
+text add text="着" life=1150 s_color=#&13 sx=uix-490 sy=270 s_rot=200.0f e_rot=200.0f a_in="shrink" a_out="to_right_expo" s_fs=250 font="1"
+sleep 150
+text add text="你" life=900 s_color=#&12 sx=uix-400 sy=360 s_rot=-200.0f e_rot=-200.0f a_in="shrink" a_out="to_right_expo" s_fs=250 font="1"
+sleep 1400
+text add text="我" life=1750 s_color=#&7 sx=uix/2 sy=100 s_rot=80.0f a_in="from_up_cubic" a_out="fadeout" s_fs=300 font="4"
+sleep 300
+text add text="的" life=1450 s_color=#&11 sx=uix-300 sy=uiy-590 s_rot=90.0f a_in="none" a_out="fadeout" s_fs=240 font="2"
+sleep 140
+text add text="心" life=1310 s_color=#&11 sx=uix-300 sy=uiy-300 s_rot=90.0f a_in="none" a_out="fadeout" s_fs=240 font="2"
+sleep 140
+text add text="总是" life=1170 s_color=#&12 e_color=#&10 sx=750 sy=uiy-390 a_in="shrink" a_out="to_down_expo" in_time=100 s_fs=200 font="1"
+sleep 160
+text add text="不" life=1100 s_color=#&15 e_color=#&8 sx=100 sy=30 s_fs=440 e_fs=360 change_func="ease_in_expo" a_in="none" a_out="fadeout" font="5"
+sleep 140
+text add text="安" life=1100 s_color=#&15 e_color=#&8 sx=385 sy=270 s_fs=460 e_fs=380 change_func="ease_in_expo" a_in="none" a_out="fadeout" font="5"
+sleep 620
+text clear
+text add text="Oh" life=300 s_color=#&15 sx=450 sy=120 s_fs=560 a_in="none" a_out="to_right_expo" out_time=100 font="4"
+sleep 400
+text add text="我现在" life=1400 s_color=#&7 e_color=#&4 sx=100 sy=150 a_in="from_left_cubic" a_out="to_right_expo" s_fs=190 font="5"
+text add text="膏肓" life=1400 s_color=#&14 e_color=#&12 sx=uix-600 sy=uiy-270 a_in="from_right_cubic" a_out="to_left_expo" s_fs=240 e_fs=300 change_func="ease_in_out_sine" font="5"
+sleep 100
+text add text="已病入" life=1300 s_color=#&14 e_color=#&13 sx=650 sy=260 ex=550 ey=290 a_in="enlarge" a_out="enlarge" s_fs=170 e_fs=90 change_func="lerp" font="2"
+sleep 1600
+text add text="Eh" life=1020 s_color=#&3 sx=160 sy=60 ex=160 ey=70 a_in="from_up_cubic" a_out="to_down_expo" in_time=180 out_time=200 s_fs=330 font="5"
+text add text="Eh" life=1020 s_color=#&3 sx=160 sy=390 ex=160 ey=400 a_in="from_up_cubic" a_out="to_down_expo" in_time=180 out_time=200 s_fs=330 font="5"
+text add text="Oh" life=1020 s_color=#&2 sx=uix-390 sy=uiy-300 ex=uix-390 ey=uiy-310 a_in="from_down_cubic" a_out="to_up_expo" in_time=180 out_time=200 s_fs=330 font="5"
+text add text="Oh" life=1020 s_color=#&2 sx=uix-390 sy=uiy-630 ex=uix-390 ey=uiy-640 a_in="from_down_cubic" a_out="to_up_expo" in_time=180 out_time=200 s_fs=330 font="5"
+sleep 800

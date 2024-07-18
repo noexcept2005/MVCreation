@@ -1,0 +1,85 @@
+===========================
+     MV C++ Performer      
+  Framework by Wormwaker   
+
+* Product Name: 只因你太美
+===========================
+MV_Init: 初始化中...
+显示器缩放比例：125%
+窗口尺寸： uix=1280, uiy=720
+MV_Load: 载入中...
+成功加载字体：得意黑
+成功加载字体：颜真卿多宝塔碑
+成功加载字体：XQjuzhentiZJSY
+成功加载字体：Aa机甲黑
+成功加载字体：Aa未来黑 75
+成功加载字体：字跳字唱硬核-闪 电闪
+FontManager::AddFontFamilies:  加载字体结果： 6 / 6
+MV_SetStageTimes: 设置各阶段时长  前 3000 ms, 中 225000 ms, 后 3000 ms
+MV_Before: 播放前的展示
+JSON = {type:"image",image:"cxk_body_4.png",s_zoom:0.5f,ex:midx+80,ey:250,e_zoom:0.9f,change_func:"ease_in_out_sine",a_out:"to_right_expo",out_time:280L,s_alpha:30s,e_alpha:250s}
+JSON = {type:"image",image:"cxk_2.png",ex:midx+80,change_func:"lerp",s_zoom:0.55f,s_rot:0.0f,e_rot:7200.0f,rot_xc_ratio:0.5f,rot_yc_ratio:0.5f,in_time:300L,s_alpha:255s,e_alpha:190s,a_out:"fadeout",out_time:300L}
+JSON = {type:"image",image:"cxk_2.png",ex:midx-10,change_func:"lerp",s_zoom:0.4f,s_rot:80.0f,e_rot:5480.0f,rot_xc_ratio:0.5f,rot_yc_ratio:0.5f,in_time:300L,s_alpha:255s,e_alpha:10s,a_out:"fadeout",out_time:200L}
+JSON = {type:"image",image:"cxk_2.png",ex:midx+330,change_func:"lerp",s_zoom:0.3f,s_rot:-1800.0f,e_zoom:1.0f,e_rot:10800.0f,rot_xc_ratio:0.5f,rot_yc_ratio:0.5f,in_time:300L,s_alpha:255s,e_alpha:30s,a_out:"fadeout",out_time:300L}
+JSON = {type:"image",image:"cxk_2.png",ex:midx+80,change_func:"lerp",s_zoom:0.6f,s_rot:900.0f,e_rot:8000.0f,rot_xc_ratio:0.5f,rot_yc_ratio:0.5f,in_time:300L,s_alpha:255s,e_alpha:100s,a_out:"fadeout",out_time:100L}
+JSON = {type:"image",image:"hen_2.png",ex:midx+400,change_func:"ease_in_out_sine",s_zoom:0.1f,e_zoom:0.35f,in_time:200L,s_alpha:255s,a_out:"to_right_expo",out_time:400L}
+ElementPerformer: 清除所有元素
+JSON = {type:"image",image:"cxk_9.png",s_zoom:0.6f,in_time:400L,a_out:"enlarge",out_time:500L}
+JSON = {type:"image",image:"cxk_13.png",ex:uix-555,a_out:"fadeout",s_alpha:200s,e_alpha:250s,change_func:"lerp"}
+JSON = {type:"image",image:"cxk_14.png",ex:uix-404,s_alpha:90s,e_alpha:200s,change_func:"lerp",in_time:200L,a_out:"enlarge",out_time:800L}
+JSON = {type:"image",image:"cxk_15.png",ey:uiy-380,change_func:"ease_in_out_sine",s_alpha:120s,e_alpha:250s,in_time:600L,a_out:"fadeout",out_time:400L}
+AddEffect id=9
+AddEffect id=9
+JSON = {type:"image",image:"explosion.png",s_zoom:0.9f,e_zoom:2.3f,s_alpha:100s,e_alpha:255s,a_out:"fadeout",out_time:350L}
+JSON = {type:"image",image:"cxk_5.png",s_zoom:0.8f,e_zoom:0.1f,s_alpha:250s,e_alpha:180s,in_time:190L,a_out:"fadeout",out_time:180L}
+AddEffect id=9
+JSON = {type:"image",image:"cxk_0.png",s_zoom:0.6f,s_rot:0.0f,e_rot:140.0f,change_func:"ease_in_out_sine",a_out:"fadeout"}
+ElementPerformer: 清除所有元素
+JSON = {type:"image",image:"man_2.png",ex:uix-195,s_rot:0.0f,e_rot:10.0f,s_alpha:80s,e_alpha:200s,change_func:"lerp",a_out:"fadeout"}
+JSON = {type:"image",image:"electrocardiogram.png",ex:midx-325,change_func:"lerp",a_out:"to_right_expo",s_alpha:130s,e_alpha:250s}
+ElementPerformer: 清除所有元素
+JSON = {type:"image",image:"cxk_10.png",s_alpha:80s,e_alpha:165s,in_time:150L,a_out:"fadeout",out_time:80L,s_zoom:1.0f}
+JSON = {type:"image",image:"cxk_11.png",ex:uix-375,s_zoom:1.0f,s_alpha:90s,e_alpha:200s,change_func:"lerp",a_out:"fadeout"}
+JSON = {type:"image",image:"barrier.png",ex:140,ey:uiy-170,change_func:"lerp",rot_xc_ratio:0.5f,rot_yc_ratio:0.5f,s_ratio:-200.0f,e_ratio:-210.0f,a_out:"to_left_expo",s_zoom:1.8f,s_alpha:80s,e_alpha:190s}
+ElementPerformer: 清除所有元素
+ElementPerformer: 清除所有元素
+AddEffect id=9
+AddEffect id=9
+JSON = {type:"image",image:"cxk_7.png",s_zoom:0.6f,s_alpha:80s,e_alpha:130s,a_out:"none"}
+JSON = {type:"image",image:"hen_3.png",s_zoom:0.95f,ex:uix-350,s_alpha:255s,change_func:"lerp",a_out:"to_left_expo",out_time:800L}
+AddEffect id=9
+JSON = {type:"image",image:"cxk_body_4.png",s_zoom:0.5f,ex:midx+80,ey:250,e_zoom:0.9f,change_func:"ease_in_out_sine",a_out:"to_right_expo",out_time:280L,s_alpha:30s,e_alpha:250s}
+JSON = {type:"image",image:"cxk_2.png",ex:midx+80,change_func:"lerp",s_zoom:0.55f,s_rot:0.0f,e_rot:7200.0f,rot_xc_ratio:0.5f,rot_yc_ratio:0.5f,in_time:300L,s_alpha:255s,e_alpha:190s,a_out:"fadeout",out_time:300L}
+JSON = {type:"image",image:"cxk_2.png",ex:midx-10,change_func:"lerp",s_zoom:0.4f,s_rot:80.0f,e_rot:5480.0f,rot_xc_ratio:0.5f,rot_yc_ratio:0.5f,in_time:300L,s_alpha:255s,e_alpha:10s,a_out:"fadeout",out_time:200L}
+JSON = {type:"image",image:"cxk_2.png",ex:midx+330,change_func:"lerp",s_zoom:0.3f,s_rot:-1800.0f,e_zoom:1.0f,e_rot:10800.0f,rot_xc_ratio:0.5f,rot_yc_ratio:0.5f,in_time:300L,s_alpha:255s,e_alpha:30s,a_out:"fadeout",out_time:300L}
+JSON = {type:"image",image:"cxk_2.png",ex:midx+80,change_func:"lerp",s_zoom:0.6f,s_rot:900.0f,e_rot:8000.0f,rot_xc_ratio:0.5f,rot_yc_ratio:0.5f,in_time:300L,s_alpha:255s,e_alpha:100s,a_out:"fadeout",out_time:100L}
+JSON = {type:"image",image:"hen_2.png",ex:midx+400,change_func:"ease_in_out_sine",s_zoom:0.1f,e_zoom:0.35f,in_time:200L,s_alpha:255s,a_out:"to_right_expo",out_time:400L}
+ElementPerformer: 清除所有元素
+JSON = {type:"image",image:"cxk_9.png",s_zoom:0.6f,in_time:400L,a_out:"enlarge",out_time:500L}
+JSON = {type:"image",image:"cxk_body_4.png",s_zoom:0.5f,in_time:800L,a_out:"enlarge",out_time:450L}
+JSON = {type:"image",image:"cxk_tsk_1.png",s_zoom:0.5f,ex:140,change_func:"lerp",a_out:"enlarge"}
+JSON = {type:"image",image:"cxk_7.png",ex:140,change_func:"lerp",a_out:"enlarge"}
+JSON = {type:"image",image:"cxk_body_6.png",s_alpha:80s,e_alpha:250s,ex:uix-290,motion_delay:320L,change_func:"ease_out_cubic",s_zoom:0.6f,a_out:"fadeout"}
+AddEffect id=9
+JSON = {type:"image",image:"cake_1.png",s_zoom:0.9f,e_zoom:1.05f,s_rot:900.0f,s_alpha:180s,e_alpha:250s,a_out:"none"}
+ElementPerformer: 清除所有元素
+ElementPerformer: 清除所有元素
+JSON = {type:"image",image:"flower_1.png",in_time:120L,a_out:"to_right_expo",out_time:150L}
+JSON = {type:"image",image:"flower_2.png",in_time:120L,a_out:"to_left_expo",out_time:150L}
+ElementPerformer: 清除所有元素
+JSON = {type:"image",image:"basketball.png",s_zoom:0.8f,e_zoom:1.0f,in_time:80L,a_out:"fadeout",out_time:400L}
+ElementPerformer: 清除所有元素
+ElementPerformer: 清除所有元素
+JSON = {type:"image",image:"cxk_12.png",in_time:180L,a_out:"fadeout",out_time:300L,s_alpha:120L,e_alpha:180L}
+ElementPerformer: 清除所有元素
+JSON = {type:"image",image:"electrocardiogram.png",ex:midx-390,s_alpha:90s,e_alpha:150s,a_out:"to_left_expo"}
+JSON = {type:"image",image:"man_1.png",ex:uix-510,s_alpha:80s,e_alpha:250s,change_func:"lerp",in_time:350L,a_out:"shrink",out_time:450L}
+JSON = {type:"image",image:"cxk_11.png",ex:uix-375,s_zoom:1.0f,s_alpha:90s,e_alpha:200s,change_func:"lerp",a_out:"fadeout"}
+JSON = {type:"image",image:"barrier.png",ex:140,ey:uiy-170,change_func:"lerp",rot_xc_ratio:0.5f,rot_yc_ratio:0.5f,s_ratio:-200.0f,e_ratio:-210.0f,a_out:"to_left_expo",s_zoom:1.8f,s_alpha:80s,e_alpha:190s}
+ElementPerformer: 清除所有元素
+ElementPerformer: 清除所有元素
+AddEffect id=9
+按 Esc 退出！
+MV_Unload: 开始卸载数据...
+FontManager::Dispose:  卸载字体结果： 6 / 6
+ElementPerformer: 清除所有元素

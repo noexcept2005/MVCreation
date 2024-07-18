@@ -1,0 +1,26 @@
+#include "现在确认地告诉我.mvs"
+background fade to=#&15 duration=180L
+text add text="就是" life=750L sx=100 sy=80 a_in="none" a_out="enlarge" s_color=#3;3;3 s_fs=380 font="4"
+sleep 280
+background fade to=#255;193;193 duration=200L
+sleep 240
+text add text="现在" life=750L sx=uix-770 sy=uiy-390 ex=50 ey=0 change_func="ease_out_cubic" a_in="none" a_out="fadeout" s_color=#&1 s_fs=380 e_fs=850 font="4"
+rect add type="image" image="cxk_body_6.png" life=2020L s_alpha=80s e_alpha=250s sx=uix-100 sy=midy-180 ex=uix-290 motion_delay=320L change_func="ease_out_cubic" s_zoom=0.6f a_in="none" a_out="fadeout"
+sleep 250
+background fade to=#139;28;98 duration=200L
+sleep 205
+text add text="告" life=850L sx=midx-300 sy=midy-140 ex=midx-550 change_func="ease_out_cubic" a_in="fadein" in_time=100L a_out="fadeout" s_color=#&7 e_color=#&15 s_fs=280 font="5"
+text add text="诉" life=800L sx=midx+20 sy=midy-140 ex=midx+270 change_func="ease_out_cubic" a_in="fadein" in_time=100L a_out="fadeout" s_color=#&7 e_color=#&15 s_fs=280 font="5"
+sleep 100
+text add text="我" life=1500L sx=midx-40 sy=midy-40 ex=midx-300 ey=midy-300 change_func="ease_out_cubic" s_fs=80 e_fs=600 a_in="fadein" a_out="fadeout" s_color=#238;130;238 e_color=#255;48;48 font="3"
+sleep 50
+rect add type="image" image="amagi.png" life=5000L sx=midx-187 ex=midx-207 change_func="lerp" sy=midy-215 s_alpha=170s e_alpha=255s a_in="from_right_cubic" a_out="to_left_expo" out_time=1500L s_zoom=1.0f
+rect add type="image" image="amagi.png" life=5000L sx=midx-187 ex=midx-167 change_func="lerp" sy=midy-215 s_alpha=170s e_alpha=255s a_in="from_left_cubic" a_out="to_right_expo" out_time=1500L s_zoom=1.0f
+sound quickplay "你干嘛~哈哈哎呦.mp3"
+sound quickplay "你干嘛~哈哈哎呦【倒放】.mp3"
+sleep 200
+effect add id="shake"
+sleep 50
+background fade to=#&0 duration=300L
+sleep 300
+region wait

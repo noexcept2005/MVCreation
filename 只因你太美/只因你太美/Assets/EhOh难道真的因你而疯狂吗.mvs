@@ -1,0 +1,51 @@
+region duration 8800L
+text add text="Eh" life=1020 s_color=#25;25;25 sx=110 sy=60 ex=110 ey=70 a_in="from_up_cubic" a_out="to_down_expo" in_time=180 out_time=200 s_fs=330 font="5"
+text add text="Eh" life=1020 s_color=#25;25;25 sx=110 sy=390 ex=110 ey=400 a_in="from_up_cubic" a_out="to_down_expo" in_time=180 out_time=200 s_fs=330 font="5"
+text add text="Oh" life=1020 s_color=#25;25;25 sx=uix-500 sy=uiy-300 ex=uix-500 ey=uiy-310 a_in="from_down_cubic" a_out="to_up_expo" in_time=180 out_time=200 s_fs=330 font="5"
+text add text="Oh" life=1020 s_color=#25;25;25 sx=uix-500 sy=uiy-630 ex=uix-500 ey=uiy-640 a_in="from_down_cubic" a_out="to_up_expo" in_time=180 out_time=200 s_fs=330 font="5"
+text add text="Eh" life=1020 s_color=#&3 sx=160 sy=60 ex=160 ey=70 a_in="from_up_cubic" a_out="to_down_expo" in_time=180 out_time=200 s_fs=330 font="5"
+text add text="Eh" life=1020 s_color=#&3 sx=160 sy=390 ex=160 ey=400 a_in="from_up_cubic" a_out="to_down_expo" in_time=180 out_time=200 s_fs=330 font="5"
+text add text="Oh" life=1020 s_color=#&2 sx=uix-550 sy=uiy-300 ex=uix-550 ey=uiy-310 a_in="from_down_cubic" a_out="to_up_expo" in_time=180 out_time=200 s_fs=330 font="5"
+text add text="Oh" life=1020 s_color=#&2 sx=uix-550 sy=uiy-630 ex=uix-550 ey=uiy-640 a_in="from_down_cubic" a_out="to_up_expo" in_time=180 out_time=200 s_fs=330 font="5"
+background fade to=#&0 duration=800L
+sleep 800
+text add text="难道" life=2500 s_color=#100;100;100 e_color=#200;200;200 sx=200 sy=uiy-280 ex=280 change_func="ease_out_cubic" a_in="none" a_out="to_down_expo" s_fs=190 font="5"
+sleep 300
+text add text="真的" life=2000 s_color=#&14 sx=700 sy=180 ex=750 ey=140 change_func="ease_out_cubic" a_in="none" a_out="fadeout" s_fs=140 s_rot=300.0f font="3"
+sleep 200
+rect add type="image" image="cxk_11.png" life=2250L sx=uix-336 sy=uiy-682 ex=uix-375 s_zoom=1.0f s_alpha=90s e_alpha=200s change_func="lerp" a_in="from_right_cubic" a_out="fadeout"
+text add text="因" life=1800 s_color=#&11 sx=110 sy=100 a_in="from_up_cubic" a_out="enlarge" s_fs=120 font="5"
+sleep 50
+text add text="你" life=1800 s_color=#&12 sx=240 sy=150 a_in="from_up_cubic" a_out="enlarge" s_fs=125 font="5"
+sleep 50
+text add text="而" life=1800 s_color=#&8 sx=380 sy=210 a_in="from_up_cubic" a_out="enlarge" s_fs=110 font="5"
+sleep 50
+text add text="疯" life=1800 s_color=#&13 sx=440 sy=280 a_in="from_up_cubic" a_out="enlarge" s_fs=125 font="5"
+sleep 50
+text add text="狂" life=1800 s_color=#&13 sx=570 sy=370 a_in="from_up_cubic" a_out="enlarge" s_fs=125 font="5"
+sleep 50
+text add text="吗" life=900 s_color=#&10 sx=690 sy=465 a_in="from_up_cubic" a_out="enlarge" s_fs=130 font="5"
+sleep 2000
+text add text="我" life=3400 s_color=#&13 sx=uix-490 sy=10 a_in="from_right_cubic" in_time=150 a_out="fadeout" out_time=1000 s_fs=450 font="4"
+sleep 300
+rect add type="image" image="barrier.png" life=1550L sx=170 ex=140 sy=uiy-190 ey=uiy-170 change_func="lerp" rot_xc_ratio=0.5f rot_yc_ratio=0.5f s_ratio=-200.0f e_ratio=-210.0f a_in="from_left_cubic" a_out="to_left_expo" s_zoom=1.8f s_alpha=80s e_alpha=190s
+text add text="本来不是" life=2400 s_color=#40;40;40 e_color=#70;70;70 sx=400 sy=uiy-100 s_rot=1100.0f ex=200 ey=370 e_rot=400.0f change_func="ease_out_cubic" a_in="none" a_out="fadeout" s_fs=145 font="5"
+text add text="本来不是" life=2400 s_color=#&12 e_color=#255;69;0 sx=400 sy=uiy-100 s_rot=1100.0f ex=250 ey=470 e_rot=400.0f change_func="ease_out_cubic" a_in="none" a_out="fadeout" s_fs=145 font="5"
+sleep 350
+text add text="这种人" life=2800 s_color=#&6 e_color=#&15 sx=450 sy=uiy-280 a_in="from_left_cubic" in_time=300 a_out="to_right_expo" out_time=550 s_fs=270 font="3"
+sleep 1200
+background color #139;10;80
+clear
+text add text="因" life=2500 s_color=#&15 sx=40 sy=40 a_in="none" a_out="fadeout" out_time=900 s_fs=650 font="5"
+sleep 250
+background fade to=#&0 duration=1000L
+text add text="你" life=1500 s_color=#&14 sx=800 sy=uiy-200 a_in="from_down_cubic" a_out="shrink" s_fs=160 font="4"
+sleep 250
+text add text="变成" life=1900 s_color=#&3 sx=850 sy=uiy-380 ex=700 sy=uiy-390 change_func="ease_in_out_sine" a_in="shrink" a_out="shrink" s_fs=140 font="6"
+sleep 250
+text add text="奇怪" life=1300 s_color=#&13 e_color=#255;110;180 sx=600 sy=100 a_in="from_up_cubic" a_out="enlarge" s_fs=110 font="5"
+text add text="的" life=500 s_color=#&13 e_color=#255;218;185 sx=820 sy=100 a_in="from_up_cubic" a_out="enlarge" s_fs=110 font="5"
+sleep 500
+text add text="的人" life=800 s_color=#255;218;185 e_color=#99;184;255 sx=820 sy=100 ex=uix ey=100 change_func="ease_in_expo" a_in="none" a_out="fadeout" s_fs=110 font="5"
+sleep 100
+region wait

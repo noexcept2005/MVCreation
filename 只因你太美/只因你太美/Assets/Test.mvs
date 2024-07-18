@@ -1,0 +1,22 @@
+////////////////////////////////////////
+//           Test Script              //
+////////////////////////////////////////
+//sleep 2000
+//effect add id="specl" duration=10000L
+//text add text="测试" life=20000L s_fs=200 sx=midx-300 sy=midy=100 a_in="fadein" a_out="fadeout" s_color=#&14
+//camera set e_zoom=0.6f e_rot=-225.0f change_func="ease_in_out_sine" duration=2000L
+//text add text="文本" rel_data=1s life=8000L s_fs=150 sx=0 sy=0 a_in="from_right_cubic" in_time=2000L a_out="to_rightdown_expo" out_time=4000L s_color=#&10 e_color=#&12 font="4" change_func="ease_in_out_sine"
+text add text="文本" life=10000L s_fs=300L sx=midx-300 sy=midy-150 a_in="shrink" a_out="to_down_expo" in_time=1000L out_time=1000L font="5" s_color=#255;215;0 e_color=#238;130;238 change_func="ease_in_out_sine"
+//effect add id="glow" duration=5000L
+sleep 1000
+effect add id="shake" amp=25
+sleep 1000
+effect add id="shake" amp=45
+sleep 1000
+effect add id="shake" amp=75
+sleep 1000
+effect add id="shake" amp=100
+sleep 1000
+effect add id="shake" amp=200
+sleep 1000
+effect add id="shake" amp=500

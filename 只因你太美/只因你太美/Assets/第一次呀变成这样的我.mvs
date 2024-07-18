@@ -1,0 +1,62 @@
+region duration 7050L
+clear
+background color #&8
+background fade to=#&0 duration=400
+text add text="第" life=1400 s_color=#&11 e_color=#&15 sx=100 sy=280 a_in="from_left_cubic" a_out="fadeout" s_fs=600 s_rot=250.0f font="5"
+effect add id="shake"
+sleep 200
+text add text="1" life=1650 s_color=#&12 e_color=#&14 sx=380 sy=110 ex=360 ey=170 change_func="ease_out_cubic" a_in="shrink" a_out="fadeout" s_fs=800 s_rot=250.0f font="5"
+sleep 250
+background color #&8
+background fade to=#&0 duration=400
+sleep 450
+background color #&8
+background fade to=#&0 duration=400
+text add text="次" life=700 s_color=#&11 e_color=#&15 sx=620 sy=240 a_in="from_right_cubic" a_out="fadeout" s_fs=600 s_rot=250.0f font="5"
+effect add id="shake"
+sleep 500
+background color #&8
+background fade to=#&0 duration=400
+text add text="变成这样的" life=1500 s_color=#&6 e_color=#&13 sx=50 sy=500 a_in="from_leftdown_cubic" a_out="to_rightup_expo" s_fs=300 s_rot=250.0f font="6"
+rect add type="image" image="cxk_7.png" life=1200L s_zoom=0.6f sx=uix-300 sy=uiy-300 s_alpha=80s e_alpha=130s a_in="fadein" a_out="none"
+sleep 400
+background color #&8
+background fade to=#&0 duration=400
+sleep 400
+background color #&8
+background fade to=#&0 duration=400
+sleep 400
+background color #&7
+background fade to=#&0 duration=400
+rect add type="image" image="hen_3.png" life=2200L s_zoom=0.95f sx=uix-280 ex=uix-350 sy=uiy-280 s_alpha=255s change_func="lerp" a_in="fadein" a_out="to_left_expo" out_time=800L
+sleep 150
+text add text="我" life=1300 s_color=#&2 e_color=#&8 sx=180 sy=300 a_in="shrink" a_out="shrink" s_fs=600 s_rot=250.0f font="6"
+text add text="我" life=1300 s_color=#&3 e_color=#&8 sx=520 sy=200 a_in="shrink" a_out="shrink" s_fs=600 s_rot=250.0f font="6"
+text add text="我" life=1300 s_color=#&12 e_color=#255;140;0 sx=350 sy=250 a_in="shrink" a_out="shrink" s_fs=600 s_rot=250.0f font="6"
+sleep 150
+background color #&7
+background fade to=#&0 duration=400
+sleep 100
+effect add id="shake"
+sleep 300
+background color #&8
+background fade to=#&0 duration=400
+sleep 400
+background color #&8
+background fade to=#&0 duration=400
+text add text="不管我" life=1400 s_color=#0;255;127 sx=midx-142 sy=midy+80 a_in="fadein" a_out="fadeout" s_fs=95 font="3"
+sleep 350
+background color #&8
+background fade to=#&0 duration=400
+sleep 400
+text add text="怎" life=1200 s_color=#255;255;0 sx=midx-62 sy=10 ex=80 ey=180 change_func="ease_out_cubic" a_in="none" a_out="enlarge" s_fs=220 font="5"
+text add text="么" life=1200 s_color=#255;255;0 sx=midx+2 sy=10 ex=uix-240 ey=180 change_func="ease_out_cubic" a_in="none" a_out="enlarge" s_fs=220 font="5"
+sleep 300
+text add text="去" life=800 s_color=#238;232;170 e_color=#&13 sx=midx-190 sy=0 ex=midx-190 ey=uiy-380 change_func="ease_out_cubic" a_in="none" a_out="to_down_expo" s_fs=380 font="4"
+sleep 110
+background fade to=#&7 duration=220L
+text add text="否" life=750 s_color=#30;30;30 sx=400 sy=uiy-490 a_in="from_leftup_cubic" a_out="fadeout" s_fs=520 font="5" s_rot=-180.0f
+text add text="认" life=750 s_color=#30;30;30 sx=uix-350 sy=20 a_in="from_rightdown_cubic" a_out="fadeout" s_fs=520 font="5" s_rot=-180.0f
+sleep 220
+background fade to=#&0 duration=350L
+region wait
